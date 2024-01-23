@@ -8,8 +8,8 @@
 ### 🚀 Aspiration Goals
 - Software Engineer
 - Full-Stack Web Developer
-- Full-Stack Mobile App Developer
-- Smart-Apps Developer
+- Full-Stack Mobile-App Developer
+- Smart-App Developer
 
 ### 🧠 Mindset
 - Resilient Learner
