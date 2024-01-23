@@ -7,9 +7,9 @@
 
 ### 🚀 Aspiration Goals
 - Software Engineer
-- Full Stack Web Dev.
-- Full Stack Mobile App Dev.
-- Smart Apps Dev.
+- Full-Stack Web Developer
+- Full-Stack Mobile App Developer
+- Smart-Apps Developer
 
 ### 🧠 Mindset
 - Resilient Learner
@@ -23,7 +23,7 @@
 ![front](https://github.com/kira23j/kira23j/blob/main/assets/front.jpg)
 
 <h1 align="center">Latest Top 3 Projects!</h1>
-<a href="https://github.com/kira23j/WebTriad/tree/main/Flask-Projects/01.Customer-Segmentation-ML"><b>Customer-Segmentation</b></a>
+<a href="https://github.com/kira23j/Smart-Apps/tree/main/01.Customer-Segmentation-Flask-ML"><b>Customer-Segmentation</b></a>
 <p align="justify">
  Predict customer segments using Flask, Scikit-learn, and a pre-trained KMeans model in this user-friendly app. </p>
  <hr>
