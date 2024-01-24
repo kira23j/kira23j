@@ -5,7 +5,7 @@
 ### 💻 Tech Stack
 - Python | React | Flutter
 
-### 🚀 Aspiration Goals
+### 🚀 Aspirational Goals
 - Software Engineer
 - Full-Stack Web Developer
 - Full-Stack Mobile-App Developer
@@ -36,7 +36,9 @@
 <p align="justify">
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec varius massa. Sed vel purus vitae velit tincidunt tristique.
  </p>
- <hr><hr>
+ <hr>
+ - <p>Currently I am working on Mobile-App Development📱💻</p>
+ <hr>
  
 
 <h3 align="center">My GitHub Stats</h3>
