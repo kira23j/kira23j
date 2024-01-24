@@ -36,9 +36,9 @@
 <p align="justify">
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec varius massa. Sed vel purus vitae velit tincidunt tristique.
  </p>
+ <hr>  
  <hr>
- <hr>
-  <p align="center">Currently I am working on<b> Mobile-App Development with Flutter</b>📱💻</p>
+  <p align="center">Currently I am working on<b> Mobile-App Development with Flutter</b>📱💻<a href="https://github.com/kira23j/FlutterVault"><b>click here</b></a> to see my work</p>
  <hr>
  
 
