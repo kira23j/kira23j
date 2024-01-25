@@ -23,19 +23,22 @@
 ![front](https://github.com/kira23j/kira23j/blob/main/assets/front.jpg)
 
 <h1 align="center">Latest Top 3 Projects!</h1>
+<a href="https://github.com/kira23j/Next-Projects-Hub/tree/main/01.Anime-Ocean">Anime Ocean</b></a>
+<p align="justify">
+ Explore Anime-Ocean on, Dive into Next.js 14 with server actions & Framer Motion animations for a delightful anime discovery experience. <a href="https://github.com/kira23j/FlutterVault"><b>CLICK HERE</b></a> For DEMO!
+ </p>
+ <hr>
+
 <a href="https://github.com/kira23j/Smart-Apps/tree/main/01.Customer-Segmentation-Flask-ML"><b>Customer-Segmentation</b></a>
 <p align="justify">
  Predict customer segments using Flask, Scikit-learn, and a pre-trained KMeans model in this user-friendly app. </p>
  <hr>
+ 
 <a hre="https://github.com/kira23j/WebTriad/tree/main/Flask-Projects/01.Customer-Segmentation-ML"><b>Coming Soon!</b></a>
 <p align="justify">
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec varius massa. Sed vel purus vitae velit tincidunt tristique.
  </p>
- <hr>
-<a hre="https://github.com/kira23j/WebTriad/tree/main/Flask-Projects/01.Customer-Segmentation-ML"><b>Coming Soon!</b></a>
-<p align="justify">
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec varius massa. Sed vel purus vitae velit tincidunt tristique.
- </p>
+ 
  <hr>  
  <hr>
   <p align="center">Currently I am working on<b> Mobile-App Development with Flutter</b>📱💻<a href="https://github.com/kira23j/FlutterVault"><b>click here</b></a> to see my work</p>
