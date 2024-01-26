@@ -1,5 +1,5 @@
 ![banner](https://github.com/kira23j/kira23j/blob/main/assets/banner.jpg)
-<h2 align="center">kirubel here! 👋, Aspiring Software Engineer Based in Ethiopia.</h2>
+<h2 align="center">kirubel here 👋, Aspiring Software Engineer Based in Ethiopia.</h2>
 <h3 align="center">Explore my well-organized and thoughtfully documented repositories.</h3>
 
 ### 💻 Tech Stack
@@ -25,7 +25,7 @@
 <h1 align="center">Latest Top 3 Projects!</h1>
 <h2><a href="https://github.com/kira23j/Next-Projects-Hub/tree/main/01.Anime-Ocean">Anime Ocean</b></a></h2>
 <p align="justify">
- Explore Anime-Ocean, Dive into Next.js 14 with server actions & Framer Motion animations for a delightful anime discovery experience. <a href="https://github.com/kira23j"><b>click here</b></a> For DEMO!
+ Explore Anime-Ocean, Dive into Next.js 14 with server actions & Framer Motion animations for a delightful anime discovery experience. <p><a href="https://anime-ocean.vercel.app/"><b><p>click here</b></a> For DEMO!
  </p>
  <hr>
 
