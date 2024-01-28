@@ -29,7 +29,7 @@
  </p>
  <hr>
 
-<h2><a href="https://github.com/kira23j/Smart-Apps/tree/main/01.Customer-Segmentation-Flask-ML"><b>Customer-Segmentation</b></a></h2>
+<h2><a href="https://github.com/kira23j/Smart-Apps/tree/main/Smart-Web/01.Customer-Segmentation-Flask-ML"><b>Customer-Segmentation</b></a></h2>
 <p align="justify">
  Predict customer segments using Flask, Scikit-learn, and a pre-trained KMeans model in this user-friendly app. </p>
  <hr>
