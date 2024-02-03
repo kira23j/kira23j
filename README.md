@@ -31,9 +31,11 @@
 
 <h2><a href="https://github.com/kira23j/Smart-Apps/tree/main/Smart-Web/01.Customer-Segmentation-Flask-ML"><b>Customer-Segmentation</b></a></h2>
 <p align="justify">
- Predict customer segments using Flask, Scikit-learn, and a pre-trained KMeans model in this user-friendly app. </p>
+Predict customer segments using Flask, Scikit-learn, and a pre-trained KMeans model in this user-friendly app. </p>
+<a href="https://youtu.be/tpShpQeMVuA?si=02a_GZCKRgOr-A4W"><b>click4simulation</b></a>
+
  <hr>
- 
+
 <h2><a hre="https://github.com/kira23j/WebTriad/tree/main/Flask-Projects/01.Customer-Segmentation-ML"><b>Coming Soon!</b></a></h2>
 <p align="justify">
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec varius massa. Sed vel purus vitae velit tincidunt tristique.
