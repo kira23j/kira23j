@@ -6,7 +6,7 @@
 - Python | React | Flutter
 
 ### 🚀 Aspirational Goals
-- Python Developer
+- Software-Engineer
 - Full-Stack-Developer|Web|Mobile
 - Smart-App Developer
 
