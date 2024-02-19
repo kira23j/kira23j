@@ -17,7 +17,7 @@
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,dart,figma,html,css,tailwind,react,nextjs,flutter,firebase,fastapi,django,postgres,mongodb,linux,docker,sklearn,tensorflow "/>
+    <img src="https://skillicons.dev/icons?i=py,figma,html,css,tailwind,react,nextjs,flutter,postgres,mongodb,linux"/>
   </a>
 </p>
 
