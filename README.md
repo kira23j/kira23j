@@ -49,7 +49,7 @@ Predict customer segments using Flask, Scikit-learn, and a pre-trained KMeans mo
  
 
 <h3 align="center">My GitHub Stats</h3>
-<a align="center"href="http://www.github.com/kira23j"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kira23j&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kira23j)](https://git.io/streak-stats)
 
 
 ![footer](https://github.com/kira23j/kira23j/blob/main/assets/footer.jpg)
