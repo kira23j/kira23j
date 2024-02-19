@@ -47,9 +47,7 @@ Predict customer segments using Flask, Scikit-learn, and a pre-trained KMeans mo
   <p align="center">Currently I am working on<b> Mobile-App Development with Flutter</b>📱💻<a href="https://github.com/kira23j/FlutterVault"><b>click here</b></a> to see my work</p>
  <hr>
  
-
-<h3 align="center">My GitHub Stats</h3>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kira23j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kira23j&theme=dark-smoky&border_radius=5&card_width=500)](https://git.io/streak-stats)
 
 
 ![footer](https://github.com/kira23j/kira23j/blob/main/assets/footer.jpg)
