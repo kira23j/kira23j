@@ -17,7 +17,7 @@
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,figma,html,css,tailwind,ts,react,nextjs,flutter,django,postgres,mongodb,linux,tensorflow,solidity"/>
+    <img src="https://skillicons.dev/icons?i=py,figma,html,css,ts,react,nodejs,nextjs,flutter,django,postgres,mongodb,linux,tensorflow,solidity"/>
   </a>
 </p>
 
