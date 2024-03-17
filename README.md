@@ -8,7 +8,7 @@
 ### 🚀 Aspirational Goals
 - Software-Engineer
 - Full-Stack-Developer|Web|Mobile
-- Smart-App Developer
+- Emerging Tech Developer
 
 ### 🧠 Mindset
 - Resilient Learner
@@ -17,7 +17,7 @@
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,figma,html,css,tailwind,ts,react,nextjs,flutter,django,fastapi,postgres,mongodb,linux,tensorflow"/>
+    <img src="https://skillicons.dev/icons?i=py,figma,html,css,tailwind,ts,react,nextjs,flutter,django,postgres,mongodb,linux,tensorflow,solidity"/>
   </a>
 </p>
 
