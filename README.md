@@ -8,7 +8,7 @@
 ### 🚀 Aspirational Goals
 - Software-Engineer
 - Full-Stack-Developer|Web|Mobile
-- Emerging Tech Developer
+- Emerging Tech Developer|AI|Web3
 
 ### 🧠 Mindset
 - Resilient Learner
