@@ -3,7 +3,7 @@
 <h3 align="center">Explore my well-organized and thoughtfully documented repositories.</h3>
 
 ### 💻 Tech Stack
-- Python | React | Flutter
+- Based in Python and React
 
 ### 🚀 Aspirational Goals
 - Software-Engineer
