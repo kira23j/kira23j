@@ -4,7 +4,7 @@
 
 ### 💻 Tech Stack
 - Mainly Based in Python and React
-- **PYTHON | REACT | NEXT | REACT-NATIVE**
+- **Python | React | Next | React-Native**
 
 ### 🚀 Aspirational Goals
 - Software-Engineer
