@@ -6,9 +6,9 @@
 - **Python | React | Next | React-Native**
 
 ### 🚀 Aspirational Goals
-- Software-Engineer
-- Full-Stack-Developer **Web-Mobile**
-- AI-Web3 Synthesist
+- **Software-Engineer**
+- **Full-Stack-Developer**
+- **AI-Web3 Synthesist**
 
 ### 🧠 Mindset
 - Resilient Learner
