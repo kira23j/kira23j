@@ -8,7 +8,7 @@
 ### 🚀 Aspirational Goals
 - **Software-Engineer**
 - **Full-Stack-Developer**
-- **AI-Web3 Synthesist**
+- **AI-Web3 Specialist**
 
 ### 🧠 Mindset
 - Resilient Learner
