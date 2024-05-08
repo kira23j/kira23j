@@ -59,7 +59,7 @@ Predict customer segments using Flask, Scikit-learn, and a pre-trained KMeans mo
 
 <p align="center">
  
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kira23j&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="700" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kira23j&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
 
