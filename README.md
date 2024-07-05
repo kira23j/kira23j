@@ -17,7 +17,7 @@
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,figma,html,css,js,ts,react,nodejs,nextjs,django,postgres,mongodb,linux,tensorflow,solidity"/>
+    <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,react,redux,threejs,nodejs,nextjs,py,django,fastapi,postgres,mongodb,redis,firebase,linux,git,docker,jenkins,selenium,vercel,ai,sklearn,tensorflow,pytorch,solidity,vscode"/>
   </a>
 </p>
 
