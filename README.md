@@ -1,9 +1,9 @@
 ![banner](https://github.com/kira23j/kira23j/blob/main/assets/banner.jpg)
-<h2 align="center">kirubel here 👋, Aspiring Software Engineer Based in Ethiopia.</h2>
-<h3 align="center">Explore my well-organized and thoughtfully documented repositories.</h3>
+<h2 align="center"><strong style="color: #6D48E5; font-size: 2.5em;">🚀 Kirubel Here!</strong><br><strong style="color: #6D48E5; font-size: 2em;">Aspiring Software Engineer Based in Ethiopia</strong></h2>
+<h3 align="center"><em>Explore my well-organized and thoughtfully documented repositories.</em></h3>
 
-## 💻 Tech Stack ⇒ areaof(sphere)🌐
-### ⇒ πthon🐍 ∬ React⚛️ ∬ Next⏭️ ∬ React-Native📱 ⇒ π(RN)<sup>2</sup> ; N=2 ⇒ 4πR<sup>2</sup> ⇒ areaof(sphere)🎉 
+## 💻 Tech-Stack ⇒ areaof(sphere)🌐
+### 🔥⇒ πthon🐍 ∬ React⚛️ ∬ Next⏭️ ∬ React-Native📱 ⇒ π(RN)<sup>2</sup> ; N=2 ⇒ 4πR<sup>2</sup> ⇒ areaof(sphere)🎉 
 
 <table style="width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #fafafa; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <thead>
@@ -11,17 +11,19 @@
       <th style="padding: 15px; border-right: 2px solid #ccc;">🚀 Goals</th>
       <th style="padding: 15px; border-right: 2px solid #ccc;">🧠 Mindset</th>
       <th style="padding: 15px; border-right: 2px solid #ccc;">💖 Interests</th>
-      <th style="padding: 15px; border-right: 2px solid #ccc;">🌟 Influences</th>
+      <th style="padding: 15px; border-right: 2px solid #ccc;">👑 Influences</th>
       <th style="padding: 15px;">🔍 Exploration</th>
+      <th style="padding: 15px;">🌟Companies</th>
     </tr>
   </thead>
   <tbody>
     <tr style="background-color: #e9f7ef;">
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Software Engineer</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Resilient Learner</td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Anime</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Podcast</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Elon Musk</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">Psychology</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd;">🖥️ NVIDIA</td>
     </tr>
     <tr style="background-color: #e9f7ef;">
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Full-Stack Developer</td>
@@ -29,13 +31,16 @@
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Coffee</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Robert Greene</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">Business</td>
-    </tr>
-    <tr style="background-color: #e9f7ef;">
+        <td style="padding: 15px; border-bottom: 1px solid #ddd;">🚗 Tesla</td>
+   </tr>
+
+  <tr style="background-color: #e9f7ef;">
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">AI-Web3 Specialist</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Practical Hands-On Approach</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Sports</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Christopher Nolan</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">Strategy</td>
+       <td style="padding: 15px; border-bottom: 1px solid #ddd;">🌐 Google</td>
     </tr>
   </tbody>
 </table>
@@ -83,7 +88,7 @@
     </tr>
     <tr style="background-color: #f8f8f8;">
       <td style="padding: 12px; border-bottom: 1px solid #ddd;">
-        <h2><a href="https://github.com/kira23j/WebTriad/tree/main/Flask-Projects/01.Customer-Segmentation-ML"><b>Coming Soon!</b></a></h2>
+        <h2><a><b>Coming Soon!</b></a></h2>
       </td>
       <td style="padding: 12px; border-bottom: 1px solid #ddd;">
         <p align="justify">
@@ -93,7 +98,7 @@
     </tr>
     <tr style="background-color: #f8f8f8;">
       <td style="padding: 12px; border-bottom: 1px solid #ddd;">
-        <h2><a href="https://github.com/kira23j/Next-Projects-Hub/tree/main/02.Your-Project-Here"><b>Coming Soon!</b></a></h2>
+        <h2><a><b>Coming Soon!</b></a></h2>
       </td>
       <td style="padding: 12px; border-bottom: 1px solid #ddd;">
         <p align="justify">
@@ -103,7 +108,7 @@
     </tr>
     <tr style="background-color: #f8f8f8;">
       <td style="padding: 12px;">
-        <h2><a href="https://github.com/kira23j/WebTriad/tree/main/React-Projects/02.Another-Project"><b>Coming Soon!</b></a></h2>
+        <h2><a><b>Coming Soon!</b></a></h2>
       </td>
       <td style="padding: 12px;">
         <p align="justify">
