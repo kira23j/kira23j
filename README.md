@@ -2,40 +2,44 @@
 <h2 align="center">kirubel here 👋, Aspiring Software Engineer Based in Ethiopia.</h2>
 <h3 align="center">Explore my well-organized and thoughtfully documented repositories.</h3>
 
-## 💻 Tech Stack = Areaof(Sphere)🌐
-### 🎯 πthon🐍 ∬ React⚛️ ∬ Next⏭️ ∬ React-Native📱 ⇒ π(RN)<sup>2</sup> ; N=2 ⇒ 4πR<sup>2</sup> ⇒ Areaof(Sphere)🎉 
+## 💻 Tech Stack ⇒ areaof(sphere)🌐
+### ⇒ πthon🐍 ∬ React⚛️ ∬ Next⏭️ ∬ React-Native📱 ⇒ π(RN)<sup>2</sup> ; N=2 ⇒ 4πR<sup>2</sup> ⇒ areaof(sphere)🎉 
 
-
-<table style="width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #f0f0f0; border: 2px solid #ccc; border-radius: 8px;">
+<table style="width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #fafafa; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <thead>
     <tr style="background-color: #4CAF50; color: white; font-weight: bold; text-align: left;">
-      <th style="padding: 12px;">🚀 Goals</th>
-      <th style="padding: 12px;">🧠 Mindset</th>
-      <th style="padding: 12px;">💖 Interests</th>
-      <th style="padding: 12px;">🌟 Influences</th>
+      <th style="padding: 15px; border-right: 2px solid #ccc;">🚀 Goals</th>
+      <th style="padding: 15px; border-right: 2px solid #ccc;">🧠 Mindset</th>
+      <th style="padding: 15px; border-right: 2px solid #ccc;">💖 Interests</th>
+      <th style="padding: 15px; border-right: 2px solid #ccc;">🌟 Influences</th>
+      <th style="padding: 15px;">🔍 Exploration</th>
     </tr>
   </thead>
   <tbody>
-    <tr style="background-color: #f8f8f8;">
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Software Engineer</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Resilient Learner</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Coffee</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Elon Musk</td>
+    <tr style="background-color: #e9f7ef;">
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Software Engineer</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Resilient Learner</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Anime</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Elon Musk</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd;">Psychology</td>
     </tr>
-    <tr style="background-color: #f8f8f8;">
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Full-Stack Developer</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Entrepreneurial</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Podcast</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Robert Greene</td>
+    <tr style="background-color: #e9f7ef;">
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Full-Stack Developer</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Entrepreneurial Focus</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Coffee</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Robert Greene</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd;">Business</td>
     </tr>
-    <tr style="background-color: #f8f8f8;">
-      <td style="padding: 12px;">AI-Web3 Specialist</td>
-      <td style="padding: 12px;">Practical</td>
-      <td style="padding: 12px;">Sports</td>
-      <td style="padding: 12px;">Christopher Nolan</td>
+    <tr style="background-color: #e9f7ef;">
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">AI-Web3 Specialist</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Practical Hands-On Approach</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Sports</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Christopher Nolan</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd;">Strategy</td>
     </tr>
   </tbody>
 </table>
+
 
  <hr>
 <p align="center">
