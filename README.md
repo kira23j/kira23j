@@ -3,7 +3,7 @@
 <h3 align="center">Explore my well-organized and thoughtfully documented repositories.</h3>
 
 ## 💻 Tech Stack = Areaof(Sphere)🌐
-###  **πthon🐍 ∬ React⚛️ ∬ Next⏭️ ∬ React-Native📱 ⇒ π(RN)<sup>2</sup> ;N=2 = 4πR<sup>2</sup> Areaof(Sphere)🎉 ** 
+### 🎯 πthon🐍 ∬ React⚛️ ∬ Next⏭️ ∬ React-Native📱 ⇒ π(RN)<sup>2</sup> ; N=2 ⇒ 4πR<sup>2</sup> ⇒ Areaof(Sphere)🎉 
 
 <table style="width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #f0f0f0; border: 2px solid #ccc; border-radius: 8px;">
   <thead>
