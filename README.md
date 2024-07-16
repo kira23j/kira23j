@@ -2,15 +2,15 @@
 <h2 align="center">kirubel here 👋, Aspiring Software Engineer Based in Ethiopia.</h2>
 <h3 align="center">Explore my well-organized and thoughtfully documented repositories.</h3>
 
-### 💻 Tech Stack
-## 🌟 **Python 🐍 | React ⚛️ | Next.js ⏭️ | React Native 📱 ➡️ P(RN)<sup>2</sup>** 🌟
+## 💻 Tech Stack
+### 🌟 **Python 🐍 | React ⚛️ | Next.js ⏭️ | React Native 📱 ➡️ P(RN)<sup>2</sup>** 🌟
 
-### 🚀 Aspirational Goals
+## 🚀 Aspirational Goals
 - **Software-Engineer**
 - **Full-Stack-Developer**
 - **AI-Web3 Specialist**
 
-### 🧠 Mindset
+## 🧠 Mindset
 - Resilient Learner
 - Entrepreneurial Focus
 - Practical Hands-On Approach
