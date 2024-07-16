@@ -3,7 +3,7 @@
 <h3 align="center">Explore my well-organized and thoughtfully documented repositories.</h3>
 
 ### 💻 Tech Stack
-- **Python | React | Next | React-Native**
+## 🌟 **Python 🐍 | React ⚛️ | Next.js ⏭️ | React Native 📱 ➡️ P(RN)<sup>2</sup>** 🌟
 
 ### 🚀 Aspirational Goals
 - **Software-Engineer**
