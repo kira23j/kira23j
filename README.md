@@ -2,19 +2,33 @@
 <h2 align="center">kirubel here 👋, Aspiring Software Engineer Based in Ethiopia.</h2>
 <h3 align="center">Explore my well-organized and thoughtfully documented repositories.</h3>
 
-## 💻 Tech Stack
-### 🌟 **Python 🐍 | React ⚛️ | Next.js ⏭️ | React Native 📱 ➡️ P(RN)<sup>2</sup>** 🌟
+## 💻 Tech Stack = Areaof(Sphere)🌐
+###  **πthon🐍 ∬ React⚛️ ∬ Next⏭️ ∬ React-Native📱 ⇒ π(RN)<sup>2</sup> ;N=2 = 4πR<sup>2</sup> Areaof(Sphere)🎉 ** 
 
-## 🚀 Aspirational Goals
-- **Software-Engineer**
-- **Full-Stack-Developer**
-- **AI-Web3 Specialist**
+<table style="width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #f0f0f0; border: 2px solid #ccc; border-radius: 8px;">
+  <thead>
+    <tr style="background-color: #4CAF50; color: white; font-weight: bold; text-align: left;">
+      <th style="padding: 12px;">🚀 Aspirational Goals</th>
+      <th style="padding: 12px;">🧠 Mindset</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #f8f8f8;">
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Software Engineer</td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Resilient Learner</td>
+    </tr>
+    <tr style="background-color: #f8f8f8;">
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Full-Stack Developer</td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Entrepreneurial Focus</td>
+    </tr>
+    <tr style="background-color: #f8f8f8;">
+      <td style="padding: 12px;">AI-Web3 Specialist</td>
+      <td style="padding: 12px;">Practical Hands-On Approach</td>
+    </tr>
+  </tbody>
+</table>
 
-## 🧠 Mindset
-- Resilient Learner
-- Entrepreneurial Focus
-- Practical Hands-On Approach
-<hr>
+ <hr>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,react,redux,threejs,nodejs,nextjs,py,django,fastapi,postgres,mongodb,redis,firebase,linux,git,docker,jenkins,selenium,vercel,sklearn,tensorflow,pytorch,solidity,rust,vscode"/>
