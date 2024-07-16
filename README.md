@@ -5,25 +5,34 @@
 ## 💻 Tech Stack = Areaof(Sphere)🌐
 ### 🎯 πthon🐍 ∬ React⚛️ ∬ Next⏭️ ∬ React-Native📱 ⇒ π(RN)<sup>2</sup> ; N=2 ⇒ 4πR<sup>2</sup> ⇒ Areaof(Sphere)🎉 
 
+
 <table style="width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #f0f0f0; border: 2px solid #ccc; border-radius: 8px;">
   <thead>
     <tr style="background-color: #4CAF50; color: white; font-weight: bold; text-align: left;">
-      <th style="padding: 12px;">🚀 Aspirational Goals</th>
+      <th style="padding: 12px;">🚀 Goals</th>
       <th style="padding: 12px;">🧠 Mindset</th>
+      <th style="padding: 12px;">💖 Interests</th>
+      <th style="padding: 12px;">🌟 Influences</th>
     </tr>
   </thead>
   <tbody>
     <tr style="background-color: #f8f8f8;">
       <td style="padding: 12px; border-bottom: 1px solid #ddd;">Software Engineer</td>
       <td style="padding: 12px; border-bottom: 1px solid #ddd;">Resilient Learner</td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Coffee</td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Elon Musk</td>
     </tr>
     <tr style="background-color: #f8f8f8;">
       <td style="padding: 12px; border-bottom: 1px solid #ddd;">Full-Stack Developer</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Entrepreneurial Focus</td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Entrepreneurial</td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Podcast</td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Robert Greene</td>
     </tr>
     <tr style="background-color: #f8f8f8;">
       <td style="padding: 12px;">AI-Web3 Specialist</td>
-      <td style="padding: 12px;">Practical Hands-On Approach</td>
+      <td style="padding: 12px;">Practical</td>
+      <td style="padding: 12px;">Sports</td>
+      <td style="padding: 12px;">Christopher Nolan</td>
     </tr>
   </tbody>
 </table>
@@ -37,25 +46,70 @@
 
 ![front](https://github.com/kira23j/kira23j/blob/main/assets/front.jpg)
 
-<h1 align="center">Latest Top 3 Projects!</h1>
-<h2><a href="https://github.com/kira23j/Next-Projects-Hub/tree/main/01.Anime-Ocean">Anime Ocean</b></a></h2>
-<p align="justify">
- Explore Anime-Ocean, Dive into Next.js 14 with server actions, Tailwind CSS  & Framer Motion animations for a delightful anime discovery experience. <a href="https://anime-ocean.vercel.app/"><b>click here</b></a> For DEMO!
- </p>
- <hr>
+<h1 align="center">Latest Top 5 Projects!</h1>
+<table style="width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #f0f0f0; border: 2px solid #ccc; border-radius: 8px;">
+  <thead>
+    <tr style="background-color: #4CAF50; color: white; font-weight: bold; text-align: left;">
+      <th style="padding: 12px;">🛠️ Project</th>
+      <th style="padding: 12px;">📖 Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #f8f8f8;">
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">
+        <h2><a href="https://github.com/kira23j/Next-Projects-Hub/tree/main/01.Anime-Ocean"><b>Anime Ocean</b></a></h2>
+      </td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">
+        <p align="justify">
+          Explore Anime-Ocean, Dive into Next.js 14 with server actions, Tailwind CSS & Framer Motion animations for a delightful anime discovery experience. 
+          <a href="https://anime-ocean.vercel.app/"><b>click here</b></a> for DEMO!
+        </p>
+      </td>
+    </tr>
+    <tr style="background-color: #f8f8f8;">
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">
+        <h2><a href="https://github.com/kira23j/Smart-Apps/tree/main/Smart-Web/01.Customer-Segmentation-Flask-ML"><b>Customer Segmentation</b></a></h2>
+      </td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">
+        <p align="justify">
+          Predict customer segments using Flask, Scikit-learn, and a pre-trained KMeans model in this user-friendly app.
+          <a href="https://youtu.be/tpShpQeMVuA?si=02a_GZCKRgOr-A4W"><b>click4simulation</b></a>
+        </p>
+      </td>
+    </tr>
+    <tr style="background-color: #f8f8f8;">
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">
+        <h2><a href="https://github.com/kira23j/WebTriad/tree/main/Flask-Projects/01.Customer-Segmentation-ML"><b>Coming Soon!</b></a></h2>
+      </td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">
+        <p align="justify">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec varius massa. Sed vel purus vitae velit tincidunt tristique.
+        </p>
+      </td>
+    </tr>
+    <tr style="background-color: #f8f8f8;">
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">
+        <h2><a href="https://github.com/kira23j/Next-Projects-Hub/tree/main/02.Your-Project-Here"><b>Coming Soon!</b></a></h2>
+      </td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">
+        <p align="justify">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec varius massa. Sed vel purus vitae velit tincidunt tristique.
+        </p>
+      </td>
+    </tr>
+    <tr style="background-color: #f8f8f8;">
+      <td style="padding: 12px;">
+        <h2><a href="https://github.com/kira23j/WebTriad/tree/main/React-Projects/02.Another-Project"><b>Coming Soon!</b></a></h2>
+      </td>
+      <td style="padding: 12px;">
+        <p align="justify">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec varius massa. Sed vel purus vitae velit tincidunt tristique.
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<h2><a href="https://github.com/kira23j/Smart-Apps/tree/main/Smart-Web/01.Customer-Segmentation-Flask-ML"><b>Customer-Segmentation</b></a></h2>
-<p align="justify">
-Predict customer segments using Flask, Scikit-learn, and a pre-trained KMeans model in this user-friendly app. </p>
-<a href="https://youtu.be/tpShpQeMVuA?si=02a_GZCKRgOr-A4W"><b>click4simulation</b></a>
-
- <hr>
-
-<h2><a hre="https://github.com/kira23j/WebTriad/tree/main/Flask-Projects/01.Customer-Segmentation-ML"><b>Coming Soon!</b></a></h2>
-<p align="justify">
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec varius massa. Sed vel purus vitae velit tincidunt tristique.
- </p>
- 
  <hr>  
  <hr>
  <hr>
