@@ -43,7 +43,7 @@
        <td style="padding: 15px; border-bottom: 1px solid #ddd;">🌐 Google</td>
     </tr>
 
-  tr style="background-color: #e9f7ef;">
+  <tr style="background-color: #e9f7ef;">
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Web3 Dev</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Visionary</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Movie-Anime</td>
