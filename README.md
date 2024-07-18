@@ -2,8 +2,8 @@
 <h2 align="center"><strong style="color: #6D48E5; font-size: 2.5em;">👋🏻 Kirubel Here!</strong><br><strong style="color: #6D48E5; font-size: 2em;">Aspiring Software Engineer Based in Ethiopia</strong></h2>
 <h3 align="center"><em>Explore my well-organized and thoughtfully documented repositories.🎩</em></h3>
 
-## 💻 Tech-Stack ⇒ areaof.sphere🌐🤔
-### 🌟⇒ πthon🐍 ∬ React⚛️ ∬ Next⏭️ ∬ React-Native📱 ⇒ π(RN)<sup>2</sup> ; N=2 ⇒ 4πR<sup>2</sup> ⇒ areaof.sphere🎉 
+## 💻 Tech-Stack ⇒ area_of.sphere🌐🤔
+### 🌟⇒ πthon🐍 ∬ React⚛️ ∬ Next⏭️ ∬ React-Native📱 ⇒ π(RN)<sup>2</sup> ; N=2 ⇒ 4πR<sup>2</sup> ⇒ area_of.sphere🎉 
 
 <table style="width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #fafafa; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <thead>
@@ -19,15 +19,15 @@
   <tbody>
     <tr style="background-color: #e9f7ef;">
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Software Engineer</td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Resilient Learner</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Resilient </td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Podcast</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Elon Musk</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">Psychology</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">🖥️ NVIDIA</td>
     </tr>
     <tr style="background-color: #e9f7ef;">
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Full-Stack Developer</td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Entrepreneurial Focus</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Full-Stack Dev</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Entrepreneurial </td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Coffee</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Robert Greene</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">Business</td>
@@ -35,13 +35,23 @@
    </tr>
 
   <tr style="background-color: #e9f7ef;">
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">AI-Web3 Specialist</td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Practical Hands-On Approach</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">AI Engineer</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Practical </td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Sports</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Christopher Nolan</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">Strategy</td>
        <td style="padding: 15px; border-bottom: 1px solid #ddd;">🌐 Google</td>
     </tr>
+
+  tr style="background-color: #e9f7ef;">
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Web3 Dev</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Visionary</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Movie-Anime</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Jensen Huang</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd;">Marketing</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd;">🛒 Amazon</td>
+   </tr>
+    
   </tbody>
 </table>
 
