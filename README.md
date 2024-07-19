@@ -59,7 +59,7 @@
  <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,react,redux,threejs,nodejs,nextjs,py,fastapi,prisma,postgres,mongodb,redis,firebase,linux,git,docker,jenkins,selenium,ai,sklearn,tensorflow,pytorch,solidity,rust,vscode"/>
+    <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,react,redux,threejs,nodejs,nextjs,py,fastapi,django,prisma,postgres,mongodb,redis,firebase,linux,git,docker,jenkins,selenium,ai,sklearn,tensorflow,pytorch,solidity,rust"/>
   </a>
 </p>
 
