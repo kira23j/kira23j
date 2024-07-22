@@ -1,10 +1,10 @@
 ![banner](https://github.com/kira23j/kira23j/blob/main/assets/banner.jpg)
-<h2 align="center"><strong style="color: #6D48E5; font-size: 2.5em;">👋🏻 Kirubel Here!</strong><br><strong style="color: #6D48E5; font-size: 2em;">Aspiring Software Engineer Based in Ethiopia</strong></h2>
+<h2 align="center"><strong style="color: #6D48E5; font-size: 2.5em;">👋🏻 Kirubel Here!</strong><br><strong style="color: #6D48E5; font-size: 2em;">Innovative Software Engineer Based in Ethiopia</strong></h2>
 <h3 align="center"><em>Explore my well-organized and thoughtfully documented repositories.🎩</em></h3>
 
-## 💻 Tech-Stack ⇒ area_of.sphere🌐🤔
+## 💻 Tech-Stack ⇒ area_of.sphere(🌐)🤔
 ### 🌟⇒ πthon🐍 ∬ React⚛️ ∬ Next⏭️ ∬ React-Native📱 ⇒ π(RN)<sup>2</sup> ; N=2 ⇒ 4πR<sup>2</sup> ⇒ area_of.sphere🎉 
-
+<hr>
 <table style="width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #fafafa; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <thead>
     <tr style="background-color: #4CAF50; color: white; font-weight: bold; text-align: left;">
