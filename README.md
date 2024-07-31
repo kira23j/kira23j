@@ -34,7 +34,7 @@
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Calculus</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Robert Greene</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">Business</td>
-        <td style="padding: 15px; border-bottom: 1px solid #ddd;">🚗 Tesla</td>
+        <td style="padding: 15px; border-bottom: 1px solid #ddd;">🛸 SpaceX</td>
    </tr>
 
   <tr style="background-color: #e9f7ef;">
@@ -64,7 +64,7 @@
  <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,react,redux,threejs,nodejs,nextjs,py,fastapi,prisma,postgres,mongodb,redis,firebase,linux,git,docker,jenkins,selenium,ai,sklearn,tensorflow,pytorch,opencv,solidity,rust"/>
+    <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,react,redux,threejs,nodejs,nextjs,py,fastapi,prisma,postgres,mongodb,redis,firebase,linux,git,docker,githubactions,selenium,ai,sklearn,tensorflow,pytorch,opencv,solidity,rust"/>
   </a>
 </p>
 
