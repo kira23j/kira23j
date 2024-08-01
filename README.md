@@ -1,12 +1,13 @@
 ![banner](https://github.com/kira23j/kira23j/blob/main/assets/banner.jpg)
-<h2 align="center" style="font-size: 3em; color: #6D48E5; font-weight: bold; margin-bottom: 0.5em; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">
+<h2 style="text-align: center; color: #4B0082; margin: 0;">
   <strong>👋🏻 Kirubel Here!</strong>
   <br>
-  <strong style="font-size: 2.5em; color: #4B0082;">Innovative Aspiring Software Engineer Based in Ethiopia</strong>
+  <strong style="font-size: 2.5em; color: #4B0082; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">Innovative Aspiring Software Engineer Based in Ethiopia</strong>
 </h2>
-<h3 align="center" style="font-size: 1.5em; font-style: italic; color: #4B0082; margin-top: 0;">
+<h3 style="text-align: center; font-size: 1.5em; font-style: italic; color: #4B0082; margin: 10px 0; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);">
   Explore my well-organized and thoughtfully documented repositories. 🎩
 </h3>
+
 <h3 style="text-align: center;">🛠️ Tech Stack ⇒ <code>area_of.sphere(🌐)</code></h3>
 
 <table style="margin-left: auto; margin-right: auto; text-align: center;">
@@ -23,10 +24,6 @@
     <td><strong>☕️ ∂/∂t 📊 ∞</strong></td>
   </tr>
 </table>
-
-<p style="text-align: center; font-size: 1.2em;">
-  <a href="https://connect23j.vercel.app/" style="color: #1a73e8; text-decoration: none; font-weight: bold;">🔗 Connect with me</a>
-</p>
 
 <hr>
 <table style="width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #fafafa; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
