@@ -8,48 +8,48 @@
   Explore my well-organized and thoughtfully documented repositories. 🎩
 </h3>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <div style="background-color: #F0F0FF; color: #6A0DAD; padding: 20px; margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 250px; text-align: center;">
-    <div style="font-size: 2.5em; font-weight: bold;">
-      💻 Tech-Stack
-    </div>
-    <div style="font-size: 2em; font-weight: bold; margin-top: 10px;">
-      ⇒ area_of.sphere(🌐)🤔
-    </div>
-  </div>
+<h2 align="center" style="font-size: 2.5em; color: #6D48E5; font-weight: bold; margin-bottom: 0.5em;">
+  Tech Stack
+</h2>
+<h3 align="center" style="font-size: 2em; color: #4B0082; margin-top: 0;">
+  area_of.sphere(🌐)🤔
+</h3>
 
-  <div style="background-color: #F9F0FF; color: #8A2BE2; padding: 20px; margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 250px; text-align: center;">
-    <div style="font-size: 2.5em; font-weight: bold;">
-      ∬ πthon🐍
-    </div>
-  </div>
+<table align="center" style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+  <tr>
+    <td colspan="4" style="text-align: center; padding: 20px; font-size: 2.5em; font-weight: bold; color: #6A0DAD; background-color: #F0F0FF; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      Tech Stack
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #8A2BE2; background-color: #F9F0FF; border: 1px solid #ddd;">
+      πthon🐍
+    </td>
+    <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #8A2BE2; background-color: #F9F0FF; border: 1px solid #ddd;">
+      React⚛️
+    </td>
+    <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #8A2BE2; background-color: #F9F0FF; border: 1px solid #ddd;">
+      Next⏭️
+    </td>
+    <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #8A2BE2; background-color: #F9F0FF; border: 1px solid #ddd;">
+      React-Native📱
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 1px solid #ddd;">
+      π(RN)<sup>2</sup>
+    </td>
+    <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 1px solid #ddd;">
+      4πR<sup>2</sup>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4" style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 1px solid #ddd;">
+      area_of.sphere🎉
+    </td>
+  </tr>
+</table>
 
-  <div style="background-color: #F9F0FF; color: #8A2BE2; padding: 20px; margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 250px; text-align: center;">
-    <div style="font-size: 2.5em; font-weight: bold;">
-      ∬ React⚛️
-    </div>
-  </div>
-
-  <div style="background-color: #F9F0FF; color: #8A2BE2; padding: 20px; margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 250px; text-align: center;">
-    <div style="font-size: 2.5em; font-weight: bold;">
-      ∬ Next⏭️
-    </div>
-  </div>
-
-  <div style="background-color: #F9F0FF; color: #8A2BE2; padding: 20px; margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 250px; text-align: center;">
-    <div style="font-size: 2.5em; font-weight: bold;">
-      ∬ React-Native📱
-    </div>
-  </div>
-
-  <div style="background-color: #F0F0FF; color: #BA55D3; padding: 20px; margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 250px; text-align: center;">
-    <div style="font-size: 2.5em; font-weight: bold;">
-      ⇒ π(RN)<sup>2</sup> ; N=2 <br>
-      ⇒ 4πR<sup>2</sup> <br>
-      ⇒ area_of.sphere🎉
-    </div>
-  </div>
-</div>
 
 
 <hr>
