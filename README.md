@@ -1,12 +1,13 @@
 ![banner](https://github.com/kira23j/kira23j/blob/main/assets/banner.jpg)
-<h2 style="text-align: center; color: #4B0082; margin: 0;">
-  <strong>👋🏻 Kirubel Here!</strong>
+<div style="text-align: center; color: #4B0082; margin: 0;">
+  <strong style="font-size: 2em;">👋🏻 Kirubel Here!</strong>
   <br>
-  <strong style="font-size: 2.5em; color: #4B0082; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">Innovative Aspiring Software Engineer Based in Ethiopia</strong>
-</h2>
-<h3 style="text-align: center; font-size: 1.5em; font-style: italic; color: #4B0082; margin: 10px 0; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);">
-  Explore my well-organized and thoughtfully documented repositories. 🎩
-</h3>
+  <strong style="font-size: 2.5em; display: block; margin: 10px 0; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">Innovative Aspiring Software Engineer Based in Ethiopia</strong>
+  <h3 style="font-size: 1.5em; font-style: italic; margin: 0; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);">
+    Explore my well-organized and thoughtfully documented repositories. 🎩
+  </h3>
+</div>
+
 
 <h3 style="text-align: center;">🛠️ Tech Stack ⇒ <code>area_of.sphere(🌐)</code></h3>
 
