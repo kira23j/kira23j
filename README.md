@@ -11,15 +11,15 @@
 <table align="center" style="width: 100%; border-collapse: collapse; margin-top: 20px;">
   <!-- Header Row -->
   <tr>
-    <td colspan="4" style="text-align: center; padding: 30px; font-size: 3.2em; font-weight: bold; color: #6A0DAD; background-color: #E0E0FF; border: 2px solid #ddd;">
-      🛠️ <strong>Tech Stack⇒ area_of.sphere(🌐) </strong> 
+    <td colspan="4" style="text-align: center; padding: 30px; font-size: 3.4em; font-weight: bold; color: #6A0DAD; background-color: #E0E0FF; border: 2px solid #ddd;">
+      🛠️ <strong>Tech Stack ⇒ area_of.sphere(🌐)</strong>
     </td>
   </tr>
 
   <!-- Tech Stack Items -->
   <tr>
     <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #FF6347; background-color: #FFE4E1; border: 2px solid #ddd;">
-      🐍 Python
+     🐍 πthon
     </td>
     <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #00BFFF; background-color: #E0FFFF; border: 2px solid #ddd;">
       ⚛️ React
@@ -43,9 +43,6 @@
     <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
       4πR<sup>2</sup>
     </td>
-    <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
-      🎯
-    </td>
   </tr>
   
   <!-- Footer Row -->
@@ -55,6 +52,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
