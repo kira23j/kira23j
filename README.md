@@ -5,7 +5,6 @@
 <h3 align="center"><em>Explore my well-organized and thoughtfully documented repositories.🎩</em></h3>
 
 <h3 style="text-align: center;">🛠️ Tech Stack ⇒ <code>area_of.sphere(🌐)</code></h3>
-
 <table style="margin-left: auto; margin-right: auto; text-align: center;">
   <tr>
     <th>🐍 <strong>πthon</strong></th>
@@ -17,7 +16,7 @@
     <td><strong>π(RN)²</strong></td>
     <td><strong>N=2</strong></td>
     <td><strong>4πR²</strong></td>
-    <td><strong>☕️ ∂/∂t 📊 ∞</strong></td>
+    <td><strong>area_of.sphere🎉</td>
   </tr>
 </table>
 
