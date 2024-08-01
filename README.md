@@ -8,51 +8,34 @@
   Explore my well-organized and thoughtfully documented repositories. 🎩
 </h3>
 
-<div style="text-align: center;">
-
-  <h1 style="font-size: 2.5em; font-weight: bold; color: #6A0DAD; margin-bottom: 10px;">
-     Tech Stack: Powering the Sphere ()  <i class="fas fa-question-circle" style="color: #6A0DAD;"></i>
-  </h1>
-
-  <table style="border-collapse: collapse; font-weight: bold; margin: 0 auto;">
-    <thead>
-      <tr>
-        <th colspan="4" style="background-color: #F0F0FF; padding: 15px; text-align: center;">
-          <i class="fas fa-code" style="color: #BA55D3; margin-right: 10px;"></i> Tech Stack
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="background-color: #F9F0FF; padding: 15px; text-align: center;">
-          <i class="fab fa-python" style="color: #8A2BE2; font-size: 2em;"></i> Python
-        </td>
-        <td style="background-color: #F9F0FF; padding: 15px; text-align: center;">
-          <i class="fab fa-react" style="color: #8A2BE2; font-size: 2em;"></i> React
-        </td>
-        <td style="background-color: #F9F0FF; padding: 15px; text-align: center;">
-          <i class="fab fa-nextjs" style="color: #8A2BE2; font-size: 2em;"></i> Next.js
-        </td>
-        <td style="background-color: #F9F0FF; padding: 15px; text-align: center;">
-          <i class="fab fa-react" style="color: #8A2BE2; font-size: 2em;"></i> React Native
-        </td>
-      </tr>
-      <tr>
-        <td colspan="4" style="background-color: #F0F0FF; padding: 15px; text-align: center;">
-          <i class="fas fa-equals" style="color: #BA55D3; margin-right: 10px;"></i> Transformation
-        </td>
-      </tr>
-      <tr>
-        <td colspan="4" style="background-color: #F9F0FF; padding: 15px; text-align: center;">
-          <i class="fas fa-angle-double-right" style="color: #BA55D3; margin-right: 10px;"></i> 
-          π(RN)² (N=2) <br>
-          4πR² <br>
-          <i class="fas fa-trophy" style="color: #BA55D3; margin-right: 10px;"></i> area_of.sphere 
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<table align="center" style="width: 100%; margin-top: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; border-collapse: collapse; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <tr>
+    <th colspan="4" style="font-size: 3em; color: #6A0DAD; padding: 30px; border: 3px solid #BA55D3; background-color: #F0F0FF; text-align: center;">
+      💻 Tech-Stack ⇒ area_of.sphere(🌐)🤔
+    </th>
+  </tr>
+  <tr>
+    <td style="font-size: 2.5em; color: #8A2BE2; font-weight: bold; padding: 30px; border: 3px solid #BA55D3; text-align: center; background-color: #F9F0FF;">
+      ∬ πthon🐍
+    </td>
+    <td style="font-size: 2.5em; color: #8A2BE2; font-weight: bold; padding: 30px; border: 3px solid #BA55D3; text-align: center; background-color: #F9F0FF;">
+      ∬ React⚛️
+    </td>
+    <td style="font-size: 2.5em; color: #8A2BE2; font-weight: bold; padding: 30px; border: 3px solid #BA55D3; text-align: center; background-color: #F9F0FF;">
+      ∬ Next⏭️
+    </td>
+    <td style="font-size: 2.5em; color: #8A2BE2; font-weight: bold; padding: 30px; border: 3px solid #BA55D3; text-align: center; background-color: #F9F0FF;">
+      ∬ React-Native📱
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4" style="font-size: 2.5em; color: #BA55D3; font-weight: bold; padding: 30px; border: 3px solid #BA55D3; background-color: #F0F0FF; text-align: center;">
+      ⇒ π(RN)<sup>2</sup> ; N=2 <br>
+      ⇒ 4πR<sup>2</sup> <br>
+      ⇒ area_of.sphere🎉
+    </td>
+  </tr>
+</table>
 
 
 
