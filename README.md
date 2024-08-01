@@ -1,38 +1,39 @@
 ![banner](https://github.com/kira23j/kira23j/blob/main/assets/banner.jpg)
 <!-- Centered and compact section using HTML in Markdown -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/👋🏻%20Kirubel%20Here!-blueviolet?style=flat-square" alt="Welcome Badge" />
-</p>
+# 👋🏻 Kirubel Here!
+<!-- Compact and styled table for README.md -->
 
-<h1 align="center" style="color: #4B0082; margin: 0; font-size: 2.2em; font-family: 'Arial', sans-serif;">
-  <strong>Innovative Aspiring Software Engineer</strong>
-</h1>
-
-<h2 align="center" style="color: #4B0082; margin: 10px 0; font-size: 1.3em; font-style: italic;">
-  Based in Ethiopia & Exploring New Horizons 🌍
-</h2>
-
-<p align="center" style="color: #4B0082; font-size: 1.1em; font-family: 'Arial', sans-serif;">
-  Dive into my well-organized and documented repositories. 🎩
-</p>
-
-
-
-<h3 style="text-align: center;">🛠️ Tech Stack ⇒ <code>area_of.sphere(🌐)</code></h3>
-
-<table style="margin-left: auto; margin-right: auto; text-align: center;">
+<table style="width: 100%; border-collapse: collapse; text-align: center; font-family: 'Arial', sans-serif; color: #4B0082;">
   <tr>
-    <th>🐍 <strong>πthon</strong></th>
-    <th>⚛️ <strong>React</strong></th>
-    <th>⏭️ <strong>Next.js</strong></th>
-    <th>📱 <strong>React Native</strong></th>
+    <td style="padding: 20px; font-size: 2.2em;">
+      <strong>Innovative Aspiring Software Engineer Based in Ethiopia</strong>
+    </td>
+  </tr>
+  <!-- Paragraph Row -->
+  <tr>
+    <td style="padding: 10px; font-size: 1.1em;">
+      <strong>Dive into my well-organized and documented repositories. 🎩</strong>
+    </td>
   </tr>
   <tr>
-    <td><strong>π(RN)² dR</strong></td>
-    <td><strong>N=2</strong></td>
-    <td><strong>4πR²</strong></td>
-    <td><strong>☕️ ∂/∂t 📊 ∞</strong></td>
+    <td colspan="4" style="padding: 10px;">
+      <h3 style="margin: 0; font-size: 1.2em;">
+        🛠️ Tech Stack ⇒ <code>area_of.sphere(🌐)</code>
+      </h3>
+    </td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid #4B0082; padding: 10px;">🐍 <strong>πthon</strong></th>
+    <th style="border: 1px solid #4B0082; padding: 10px;">⚛️ <strong>React</strong></th>
+    <th style="border: 1px solid #4B0082; padding: 10px;">⏭️ <strong>Next.js</strong></th>
+    <th style="border: 1px solid #4B0082; padding: 10px;">📱 <strong>React Native</strong></th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #4B0082; padding: 10px;"><strong>π(RN)² </strong></td>
+    <td style="border: 1px solid #4B0082; padding: 10px;"><strong>N=2</strong></td>
+    <td style="border: 1px solid #4B0082; padding: 10px;"><strong>4πR²</strong></td>
+    <td style="border: 1px solid #4B0082; padding: 10px;"><strong>☕️ ∂/∂t 📊 ∞</strong></td>
   </tr>
 </table>
 
