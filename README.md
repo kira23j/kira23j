@@ -8,50 +8,52 @@
   Explore my well-organized and thoughtfully documented repositories. 🎩
 </h3>
 
-<h2 align="center" style="font-size: 2.5em; color: #6D48E5; font-weight: bold; margin-bottom: 0.5em;">
-  Tech Stack
-</h2>
-<h3 align="center" style="font-size: 2em; color: #4B0082; margin-top: 0;">
-  area_of.sphere(🌐)🤔
-</h3>
-
 <table align="center" style="width: 100%; border-collapse: collapse; margin-top: 20px;">
   <!-- Header Row -->
   <tr>
     <td colspan="4" style="text-align: center; padding: 20px; font-size: 2.5em; font-weight: bold; color: #6A0DAD; background-color: #E0E0FF; border: 1px solid #ddd;">
-      🛠️ <strong>Tech Stack</strong> 🌟
+      🛠️ <strong>Tech Stack</strong>  area_of.sphere(🌐)🌟
+    </td>
+  </tr>
+
+<table align="center" style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+  <!-- Header Row -->
+  <tr>
+    <td colspan="4" style="text-align: center; padding: 30px; font-size: 2.8em; font-weight: bold; color: #6A0DAD; background-color: #E0E0FF; border: 2px solid #ddd;">
+      🛠️ <strong>Tech Stack</strong>⇒area_of.sphere(🌐) 🌟
     </td>
   </tr>
 
   <!-- Tech Stack Items -->
   <tr>
-    <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #FF6347; background-color: #FFE4E1; border: 1px solid #ddd;">
+    <td style="text-align: center; padding: 20px; font-size: 2.2em; font-weight: bold; color: #FF6347; background-color: #FFE4E1; border: 2px solid #ddd;">
       🐍 πthon
     </td>
-    <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #00BFFF; background-color: #E0FFFF; border: 1px solid #ddd;">
+    <td style="text-align: center; padding: 20px; font-size: 2.2em; font-weight: bold; color: #00BFFF; background-color: #E0FFFF; border: 2px solid #ddd;">
       ⚛️ React
     </td>
-    <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #32CD32; background-color: #E0FFD5; border: 1px solid #ddd;">
+    <td style="text-align: center; padding: 20px; font-size: 2.2em; font-weight: bold; color: #32CD32; background-color: #E0FFD5; border: 2px solid #ddd;">
       ⏭️ Next
     </td>
-    <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #FFD700; background-color: #FFFACD; border: 1px solid #ddd;">
+    <td style="text-align: center; padding: 20px; font-size: 2.2em; font-weight: bold; color: #FFD700; background-color: #FFFACD; border: 2px solid #ddd;">
       📱 React-Native
     </td>
   </tr>
 
   <!-- Formula Row -->
   <tr>
-    <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 1px solid #ddd;">
-      π(RN)<sup>2</sup> <br> N=2
+    <td style="text-align: center; padding: 20px; font-size: 2.2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
+      π(RN)<sup>2</sup>
     </td>
-    <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 1px solid #ddd;">
-      4πR<sup>2</sup>
+    <td style="text-align: center; padding: 20px; font-size: 2.2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
+      N=2
     </td>
-    <td colspan="2" style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 1px solid #ddd;">
+    <td colspan="2" style="text-align: center; padding: 20px; font-size: 2.2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
       🌐 area_of.sphere 🎉
     </td>
   </tr>
 </table>
+
 
 
 
