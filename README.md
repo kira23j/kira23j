@@ -7,63 +7,26 @@
 <h3 align="center" style="font-size: 1.5em; font-style: italic; color: #4B0082; margin-top: 0;">
   Explore my well-organized and thoughtfully documented repositories. 🎩
 </h3>
-<table align="center" style="width: 100%; border-collapse: collapse; margin-top: 20px;">
-  <!-- Header Row -->
-  <tr>
-    <td colspan="4" style="text-align: center; padding: 30px; font-size: 3.4em; font-weight: bold; color: #6A0DAD; background-color: #E0E0FF; border: 2px solid #ddd;">
-      🛠️ <strong>Tech Stack ⇒ area_of.sphere(🌐)</strong>
-    </td>
-  </tr>
+<h3 style="text-align: center;">🛠️ Tech Stack ⇒ <code>area_of.sphere(🌐)</code></h3>
 
-  <!-- Tech Stack Items -->
+<table style="margin-left: auto; margin-right: auto; text-align: center;">
   <tr>
-    <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #FF6347; background-color: #FFE4E1; border: 2px solid #ddd;">
-      🐍 πthon
-    </td>
-    <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #00BFFF; background-color: #E0FFFF; border: 2px solid #ddd;">
-      ⚛️ React
-    </td>
-    <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #32CD32; background-color: #E0FFD5; border: 2px solid #ddd;">
-      ⏭️ Next.js
-    </td>
-    <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #FFD700; background-color: #FFFACD; border: 2px solid #ddd;">
-      📱 React Native
-    </td>
+    <th>🐍 <strong>πthon</strong></th>
+    <th>⚛️ <strong>React</strong></th>
+    <th>⏭️ <strong>Next.js</strong></th>
+    <th>📱 <strong>React Native</strong></th>
   </tr>
-
-  <!-- Formula Row -->
   <tr>
-    <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
-      π(RN)<sup>2</sup>
-    </td>
-    <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
-      N=2
-    </td>
-    <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
-      4πR<sup>2</sup>
-    </td>
-    <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
-      ☕️ 📊 💻
-    </td>
-  </tr>
-
-  <!-- Footer Row -->
-  <tr>
-    <td colspan="4" style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
-      🌐 area_of.sphere 🎉
-    </td>
-  </tr>
-
-  <!-- Contact Row -->
-  <tr>
-    <td colspan="4" style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #1E90FF; background-color: #E6F7FF; border: 2px solid #ddd;">
-      <a href="https://connect23j.vercel.app/" style="text-decoration: none; color: #1E90FF; font-weight: bold;">🔗 Connect with me</a>
-    </td>
+    <td><strong>∫ π(RN)² dR</strong></td>
+    <td><strong>N=2</strong></td>
+    <td><strong>4πR²</strong></td>
+    <td><strong>☕️ ∂/∂t 📊 ∞</strong></td>
   </tr>
 </table>
 
-
-
+<p style="text-align: center; font-size: 1.2em;">
+  <a href="https://connect23j.vercel.app/" style="color: #1a73e8; text-decoration: none; font-weight: bold;">🔗 Connect with me</a>
+</p>
 
 <hr>
 <table style="width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #fafafa; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
