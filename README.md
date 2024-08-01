@@ -11,14 +11,6 @@
 <table align="center" style="width: 100%; border-collapse: collapse; margin-top: 20px;">
   <!-- Header Row -->
   <tr>
-    <td colspan="4" style="text-align: center; padding: 20px; font-size: 2.5em; font-weight: bold; color: #6A0DAD; background-color: #E0E0FF; border: 1px solid #ddd;">
-      🛠️ <strong>Tech Stack</strong>  area_of.sphere(🌐)🌟
-    </td>
-  </tr>
-
-<table align="center" style="width: 100%; border-collapse: collapse; margin-top: 20px;">
-  <!-- Header Row -->
-  <tr>
     <td colspan="4" style="text-align: center; padding: 30px; font-size: 2.8em; font-weight: bold; color: #6A0DAD; background-color: #E0E0FF; border: 2px solid #ddd;">
       🛠️ <strong>Tech Stack</strong>⇒area_of.sphere(🌐) 🌟
     </td>
@@ -47,6 +39,9 @@
     </td>
     <td style="text-align: center; padding: 20px; font-size: 2.2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
       N=2
+    </td>
+    <td style="text-align: center; padding: 20px; font-size: 2.2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
+      4πR<sup>2</sup>
     </td>
     <td colspan="2" style="text-align: center; padding: 20px; font-size: 2.2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
       🌐 area_of.sphere 🎉
