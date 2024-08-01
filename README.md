@@ -11,46 +11,50 @@
 <table align="center" style="width: 100%; border-collapse: collapse; margin-top: 20px;">
   <!-- Header Row -->
   <tr>
-    <td colspan="4" style="text-align: center; padding: 30px; font-size: 2.8em; font-weight: bold; color: #6A0DAD; background-color: #E0E0FF; border: 2px solid #ddd;">
-      🛠️ <strong>Tech Stack</strong>⇒area_of.sphere(🌐) 🌟
+    <td colspan="4" style="text-align: center; padding: 30px; font-size: 3.2em; font-weight: bold; color: #6A0DAD; background-color: #E0E0FF; border: 2px solid #ddd;">
+      🛠️ <strong>Tech Stack</strong> ⇒ area_of.sphere(🌐)
     </td>
   </tr>
 
   <!-- Tech Stack Items -->
   <tr>
-    <td style="text-align: center; padding: 20px; font-size: 2.2em; font-weight: bold; color: #FF6347; background-color: #FFE4E1; border: 2px solid #ddd;">
-      🐍 πthon
+    <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #FF6347; background-color: #FFE4E1; border: 2px solid #ddd;">
+      🐍 Python
     </td>
-    <td style="text-align: center; padding: 20px; font-size: 2.2em; font-weight: bold; color: #00BFFF; background-color: #E0FFFF; border: 2px solid #ddd;">
+    <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #00BFFF; background-color: #E0FFFF; border: 2px solid #ddd;">
       ⚛️ React
     </td>
-    <td style="text-align: center; padding: 20px; font-size: 2.2em; font-weight: bold; color: #32CD32; background-color: #E0FFD5; border: 2px solid #ddd;">
-      ⏭️ Next
+    <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #32CD32; background-color: #E0FFD5; border: 2px solid #ddd;">
+      ⏭️ Next.js
     </td>
-    <td style="text-align: center; padding: 20px; font-size: 2.2em; font-weight: bold; color: #FFD700; background-color: #FFFACD; border: 2px solid #ddd;">
-      📱 React-Native
+    <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #FFD700; background-color: #FFFACD; border: 2px solid #ddd;">
+      📱 React Native
     </td>
   </tr>
 
   <!-- Formula Row -->
   <tr>
-    <td style="text-align: center; padding: 20px; font-size: 2.2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
+    <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
       π(RN)<sup>2</sup>
     </td>
-    <td style="text-align: center; padding: 20px; font-size: 2.2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
+    <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
       N=2
     </td>
-    <td style="text-align: center; padding: 20px; font-size: 2.2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
+    <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
       4πR<sup>2</sup>
     </td>
-    <td colspan="2" style="text-align: center; padding: 20px; font-size: 2.2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
+    <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
+      🎯
+    </td>
+  </tr>
+  
+  <!-- Footer Row -->
+  <tr>
+    <td colspan="4" style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
       🌐 area_of.sphere 🎉
     </td>
   </tr>
 </table>
-
-
-
 
 
 <hr>
