@@ -1,7 +1,7 @@
 ![banner](https://github.com/kira23j/kira23j/blob/main/assets/banner.jpg)
 <!-- Centered and compact section using HTML in Markdown -->
 
-<h2 align="center"><strong style="color: #6D48E5; font-size: 2.5em;">👋🏻 Kirubel Here!</strong><br><strong style="color: #6D48E5; font-size: 2em;">Innovative Aspiring Software Engineer Based in Ethiopia</strong><br><strong style="color: #6D48E5; font-size: 2em;">I Invite u2 Explore my well-organized and thoughtfully documented repositories.🎩</strong></h2>
+<h2 align="center"><strong style="color: #6D48E5; font-size: 2.5em;">👋🏻 Kirubel Here!</strong><br><strong style="color: #6D48E5; font-size: 2em;">Innovative Software Engineer Based in Ethiopia</strong><br><strong style="color: #6D48E5; font-size: 2em;">Explore my well-organized and thoughtfully documented repositories.🎩</strong></h2>
 <h3 style="text-align: center;">🛠️ Tech Stack ⇒ <code>area_of.sphere(🌐)</code></h3>
 <table style="margin-left: auto; margin-right: auto; text-align: center;">
   <tr>
