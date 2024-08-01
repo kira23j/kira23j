@@ -7,7 +7,6 @@
 <h3 align="center" style="font-size: 1.5em; font-style: italic; color: #4B0082; margin-top: 0;">
   Explore my well-organized and thoughtfully documented repositories. 🎩
 </h3>
-
 <table align="center" style="width: 100%; border-collapse: collapse; margin-top: 20px;">
   <!-- Header Row -->
   <tr>
@@ -58,7 +57,7 @@
   <!-- Contact Row -->
   <tr>
     <td colspan="4" style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #1E90FF; background-color: #E6F7FF; border: 2px solid #ddd;">
-      <a href="https://connect23j.vercel.app/" style="text-decoration: none; color: #1E90FF;">🔗 Connect with me</a>
+      <a href="https://connect23j.vercel.app/" style="text-decoration: none; color: #1E90FF; font-weight: bold;">🔗 Connect with me</a>
     </td>
   </tr>
 </table>
