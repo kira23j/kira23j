@@ -1,42 +1,27 @@
 ![banner](https://github.com/kira23j/kira23j/blob/main/assets/banner.jpg)
-<h2 align="center" style="font-size: 2.5em; color: #6D48E5;">
+<h2 align="center" style="font-size: 2.5em; color: #6D48E5; margin-bottom: 0.5em;">
   <strong>👋🏻 Kirubel Here!</strong>
   <br>
   <strong style="font-size: 2em;">Innovative Aspiring Software Engineer Based in Ethiopia</strong>
 </h2>
-<h3 align="center" style="font-style: italic; color: #4B0082;">
+<h3 align="center" style="font-style: italic; color: #4B0082; margin-top: 0;">
   Explore my well-organized and thoughtfully documented repositories. 🎩
 </h3>
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 20px 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-  <img src="https://via.placeholder.com/800x200?text=My+Tech+Stack" alt="Tech Stack Banner" style="border-radius: 15px;">
-
-  <h2 style="color: #6A0DAD; font-weight: bold;">💻 Tech-Stack ⇒ area_of.sphere(🌐)🤔</h2>
-  <h3 style="color: #8A2BE2; font-weight: bold;">
+  <h2 style="color: #6A0DAD; font-weight: bold; font-size: 2em; margin-top: 1em;">💻 Tech-Stack ⇒ area_of.sphere(🌐)🤔</h2>
+  <h3 style="color: #8A2BE2; font-weight: bold; font-size: 1.5em; margin-bottom: 0.5em;">
     🌟⇒ πthon🐍 ∬ React⚛️ ∬ Next⏭️ ∬ React-Native📱
   </h3>
-  <h4 style="color: #BA55D3; font-weight: bold;">
+  <h4 style="color: #BA55D3; font-weight: bold; font-size: 1.25em; margin-top: 0;">
     ⇒ π(RN)<sup>2</sup> ; N=2 <br>
     ⇒ 4πR<sup>2</sup> <br>
     ⇒ area_of.sphere🎉
   </h4>
-  
-  <img src="https://via.placeholder.com/200x200?text=React+Native" alt="React Native" style="border-radius: 50%; margin: 10px;">
-  <img src="https://via.placeholder.com/200x200?text=Next.js" alt="Next.js" style="border-radius: 50%; margin: 10px;">
-  <img src="https://via.placeholder.com/200x200?text=React" alt="React" style="border-radius: 50%; margin: 10px;">
-  <img src="https://via.placeholder.com/200x200?text=Python" alt="Python" style="border-radius: 50%; margin: 10px;">
-
-  <div style="margin-top: 20px;">
-    <a href="https://github.com/your-profile" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://www.linkedin.com/in/your-profile" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-  </div>
 
 </div>
+
 
 <hr>
 <table style="width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #fafafa; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
