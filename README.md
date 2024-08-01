@@ -1,15 +1,21 @@
 ![banner](https://github.com/kira23j/kira23j/blob/main/assets/banner.jpg)
-<h2 style="text-align: center; color: #4B0082; margin: 0; font-size: 2em; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">
-  <strong>👋🏻 Kirubel Here!</strong>
+<!-- Centered and compact section using HTML in Markdown -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/👋🏻%20Kirubel%20Here!-blueviolet?style=flat-square" alt="Welcome Badge" />
+</p>
+
+<h1 align="center" style="color: #4B0082; margin: 0; font-size: 2.2em; font-family: 'Arial', sans-serif;">
+  <strong>Innovative Aspiring Software Engineer</strong>
+</h1>
+
+<h2 align="center" style="color: #4B0082; margin: 10px 0; font-size: 1.3em; font-style: italic;">
+  Based in Ethiopia & Exploring New Horizons 🌍
 </h2>
 
-<h2 style="text-align: center; color: #4B0082; margin: 0; font-size: 2.5em; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">
-  <strong>Innovative Aspiring Software Engineer Based in Ethiopia</strong>
-</h2>
-
-<h2 style="text-align: center; color: #4B0082; margin: 0; font-size: 1.5em; font-style: italic; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);">
-  Explore my well-organized and thoughtfully documented repositories. 🎩
-</h2>
+<p align="center" style="color: #4B0082; font-size: 1.1em; font-family: 'Arial', sans-serif;">
+  Dive into my well-organized and documented repositories. 🎩
+</p>
 
 
 
@@ -23,7 +29,7 @@
     <th>📱 <strong>React Native</strong></th>
   </tr>
   <tr>
-    <td><strong>∫ π(RN)² dR</strong></td>
+    <td><strong>π(RN)² dR</strong></td>
     <td><strong>N=2</strong></td>
     <td><strong>4πR²</strong></td>
     <td><strong>☕️ ∂/∂t 📊 ∞</strong></td>
