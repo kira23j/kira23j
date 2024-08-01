@@ -8,19 +8,35 @@
   Explore my well-organized and thoughtfully documented repositories. 🎩
 </h3>
 
-<div align="center" style="margin: 20px 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<table align="center" style="width: 80%; margin-top: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; border-collapse: collapse;">
+  <tr>
+    <th colspan="3" style="font-size: 2em; color: #6A0DAD; padding: 10px; border: 2px solid #BA55D3;">
+      💻 Tech-Stack ⇒ area_of.sphere(🌐)🤔
+    </th>
+  </tr>
+  <tr>
+    <td style="font-size: 1.5em; color: #8A2BE2; font-weight: bold; padding: 10px; border: 2px solid #BA55D3;">
+      🌟⇒ πthon🐍
+    </td>
+    <td style="font-size: 1.5em; color: #8A2BE2; font-weight: bold; padding: 10px; border: 2px solid #BA55D3;">
+      ∬ React⚛️
+    </td>
+    <td style="font-size: 1.5em; color: #8A2BE2; font-weight: bold; padding: 10px; border: 2px solid #BA55D3;">
+      ∬ Next⏭️
+    </td>
+    <td style="font-size: 1.5em; color: #8A2BE2; font-weight: bold; padding: 10px; border: 2px solid #BA55D3;">
+      ∬ React-Native📱
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" style="font-size: 1.25em; color: #BA55D3; font-weight: bold; padding: 10px; border: 2px solid #BA55D3;">
+      ⇒ π(RN)<sup>2</sup> ; N=2 <br>
+      ⇒ 4πR<sup>2</sup> <br>
+      ⇒ area_of.sphere🎉
+    </td>
+  </tr>
+</table>
 
-  <h2 style="color: #6A0DAD; font-weight: bold; font-size: 2em; margin-top: 1em;">💻 Tech-Stack ⇒ area_of.sphere(🌐)🤔</h2>
-  <h3 style="color: #8A2BE2; font-weight: bold; font-size: 1.5em; margin-bottom: 0.5em;">
-    🌟⇒ πthon🐍 ∬ React⚛️ ∬ Next⏭️ ∬ React-Native📱
-  </h3>
-  <h4 style="color: #BA55D3; font-weight: bold; font-size: 1.25em; margin-top: 0;">
-    ⇒ π(RN)<sup>2</sup> ; N=2 <br>
-    ⇒ 4πR<sup>2</sup> <br>
-    ⇒ area_of.sphere🎉
-  </h4>
-
-</div>
 
 
 <hr>
