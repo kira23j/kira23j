@@ -8,34 +8,48 @@
   Explore my well-organized and thoughtfully documented repositories. 🎩
 </h3>
 
-<table align="center" style="width: 100%; margin-top: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; border-collapse: collapse; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <tr>
-    <th colspan="4" style="font-size: 3em; color: #6A0DAD; padding: 30px; border: 3px solid #BA55D3; background-color: #F0F0FF; text-align: center;">
-      💻 Tech-Stack ⇒ area_of.sphere(🌐)🤔
-    </th>
-  </tr>
-  <tr>
-    <td style="font-size: 2.5em; color: #8A2BE2; font-weight: bold; padding: 30px; border: 3px solid #BA55D3; text-align: center; background-color: #F9F0FF;">
-      ∬ πthon🐍
-    </td>
-    <td style="font-size: 2.5em; color: #8A2BE2; font-weight: bold; padding: 30px; border: 3px solid #BA55D3; text-align: center; background-color: #F9F0FF;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <div style="background-color: #F0F0FF; color: #6A0DAD; padding: 20px; margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 250px; text-align: center;">
+    <div style="font-size: 2.5em; font-weight: bold;">
+      💻 Tech-Stack
+    </div>
+    <div style="font-size: 1.5em; margin-top: 10px;">
+      ⇒ area_of.sphere(🌐)🤔
+    </div>
+  </div>
+
+  <div style="background-color: #F9F0FF; color: #8A2BE2; padding: 20px; margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 250px; text-align: center;">
+    <div style="font-size: 2.5em; font-weight: bold;">
+      🌟⇒ πthon🐍
+    </div>
+  </div>
+
+  <div style="background-color: #F9F0FF; color: #8A2BE2; padding: 20px; margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 250px; text-align: center;">
+    <div style="font-size: 2.5em; font-weight: bold;">
       ∬ React⚛️
-    </td>
-    <td style="font-size: 2.5em; color: #8A2BE2; font-weight: bold; padding: 30px; border: 3px solid #BA55D3; text-align: center; background-color: #F9F0FF;">
+    </div>
+  </div>
+
+  <div style="background-color: #F9F0FF; color: #8A2BE2; padding: 20px; margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 250px; text-align: center;">
+    <div style="font-size: 2.5em; font-weight: bold;">
       ∬ Next⏭️
-    </td>
-    <td style="font-size: 2.5em; color: #8A2BE2; font-weight: bold; padding: 30px; border: 3px solid #BA55D3; text-align: center; background-color: #F9F0FF;">
+    </div>
+  </div>
+
+  <div style="background-color: #F9F0FF; color: #8A2BE2; padding: 20px; margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 250px; text-align: center;">
+    <div style="font-size: 2.5em; font-weight: bold;">
       ∬ React-Native📱
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4" style="font-size: 2.5em; color: #BA55D3; font-weight: bold; padding: 30px; border: 3px solid #BA55D3; background-color: #F0F0FF; text-align: center;">
+    </div>
+  </div>
+
+  <div style="background-color: #F0F0FF; color: #BA55D3; padding: 20px; margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 250px; text-align: center;">
+    <div style="font-size: 2.5em; font-weight: bold;">
       ⇒ π(RN)<sup>2</sup> ; N=2 <br>
       ⇒ 4πR<sup>2</sup> <br>
       ⇒ area_of.sphere🎉
-    </td>
-  </tr>
-</table>
+    </div>
+  </div>
+</div>
 
 
 
