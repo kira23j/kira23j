@@ -1,4 +1,5 @@
 ![banner](https://github.com/kira23j/kira23j/blob/main/assets/banner.jpg)
+
 <h2 align="center" style="font-size: 2.5em; color: #6D48E5; margin-bottom: 0.5em;">
   <strong>👋🏻 Kirubel Here!</strong>
   <br>
@@ -8,34 +9,35 @@
   Explore my well-organized and thoughtfully documented repositories. 🎩
 </h3>
 
-<table align="center" style="width: 80%; margin-top: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; border-collapse: collapse;">
+<table align="center" style="width: 90%; margin-top: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; border-collapse: collapse; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <tr>
-    <th colspan="3" style="font-size: 2em; color: #6A0DAD; padding: 10px; border: 2px solid #BA55D3;">
+    <th colspan="4" style="font-size: 2em; color: #6A0DAD; padding: 20px; border: 2px solid #BA55D3; background-color: #F0F0FF;">
       💻 Tech-Stack ⇒ area_of.sphere(🌐)🤔
     </th>
   </tr>
   <tr>
-    <td style="font-size: 1.5em; color: #8A2BE2; font-weight: bold; padding: 10px; border: 2px solid #BA55D3;">
+    <td style="font-size: 1.5em; color: #8A2BE2; font-weight: bold; padding: 15px; border: 2px solid #BA55D3; text-align: center;">
       🌟⇒ πthon🐍
     </td>
-    <td style="font-size: 1.5em; color: #8A2BE2; font-weight: bold; padding: 10px; border: 2px solid #BA55D3;">
+    <td style="font-size: 1.5em; color: #8A2BE2; font-weight: bold; padding: 15px; border: 2px solid #BA55D3; text-align: center;">
       ∬ React⚛️
     </td>
-    <td style="font-size: 1.5em; color: #8A2BE2; font-weight: bold; padding: 10px; border: 2px solid #BA55D3;">
+    <td style="font-size: 1.5em; color: #8A2BE2; font-weight: bold; padding: 15px; border: 2px solid #BA55D3; text-align: center;">
       ∬ Next⏭️
     </td>
-    <td style="font-size: 1.5em; color: #8A2BE2; font-weight: bold; padding: 10px; border: 2px solid #BA55D3;">
+    <td style="font-size: 1.5em; color: #8A2BE2; font-weight: bold; padding: 15px; border: 2px solid #BA55D3; text-align: center;">
       ∬ React-Native📱
     </td>
   </tr>
   <tr>
-    <td colspan="3" style="font-size: 1.25em; color: #BA55D3; font-weight: bold; padding: 10px; border: 2px solid #BA55D3;">
+    <td colspan="4" style="font-size: 1.25em; color: #BA55D3; font-weight: bold; padding: 20px; border: 2px solid #BA55D3; background-color: #F9F0FF; text-align: center;">
       ⇒ π(RN)<sup>2</sup> ; N=2 <br>
       ⇒ 4πR<sup>2</sup> <br>
       ⇒ area_of.sphere🎉
     </td>
   </tr>
 </table>
+
 
 
 
