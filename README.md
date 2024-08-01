@@ -1,10 +1,10 @@
 ![banner](https://github.com/kira23j/kira23j/blob/main/assets/banner.jpg)
-<h2 align="center" style="font-size: 2.5em; color: #6D48E5; margin-bottom: 0.5em;">
+<h2 align="center" style="font-size: 3em; color: #6D48E5; font-weight: bold; margin-bottom: 0.5em; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">
   <strong>👋🏻 Kirubel Here!</strong>
   <br>
-  <strong style="font-size: 2em;">Innovative Aspiring Software Engineer Based in Ethiopia</strong>
+  <strong style="font-size: 2.5em; color: #4B0082;">Innovative Aspiring Software Engineer Based in Ethiopia</strong>
 </h2>
-<h3 align="center" style="font-style: italic; color: #4B0082; margin-top: 0;">
+<h3 align="center" style="font-size: 1.5em; font-style: italic; color: #4B0082; margin-top: 0;">
   Explore my well-organized and thoughtfully documented repositories. 🎩
 </h3>
 
@@ -13,14 +13,14 @@
     <div style="font-size: 2.5em; font-weight: bold;">
       💻 Tech-Stack
     </div>
-    <div style="font-size: 1.5em; margin-top: 10px;">
+    <div style="font-size: 2em; font-weight: bold; margin-top: 10px;">
       ⇒ area_of.sphere(🌐)🤔
     </div>
   </div>
 
   <div style="background-color: #F9F0FF; color: #8A2BE2; padding: 20px; margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 250px; text-align: center;">
     <div style="font-size: 2.5em; font-weight: bold;">
-      🌟⇒ πthon🐍
+      ∬ πthon🐍
     </div>
   </div>
 
@@ -50,7 +50,6 @@
     </div>
   </div>
 </div>
-
 
 
 <hr>
