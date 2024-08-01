@@ -16,39 +16,43 @@
 </h3>
 
 <table align="center" style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+  <!-- Header Row -->
   <tr>
-    <td colspan="4" style="text-align: center; padding: 20px; font-size: 2.5em; font-weight: bold; color: #6A0DAD; background-color: #F0F0FF; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      Tech Stack
+    <td colspan="4" style="text-align: center; padding: 20px; font-size: 2.5em; font-weight: bold; color: #6A0DAD; background-color: #E0E0FF; border: 1px solid #ddd;">
+      🛠️ <strong>Tech Stack</strong> 🌟
     </td>
   </tr>
+
+  <!-- Tech Stack Items -->
   <tr>
-    <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #8A2BE2; background-color: #F9F0FF; border: 1px solid #ddd;">
-      πthon🐍
+    <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #FF6347; background-color: #FFE4E1; border: 1px solid #ddd;">
+      🐍 πthon
     </td>
-    <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #8A2BE2; background-color: #F9F0FF; border: 1px solid #ddd;">
-      React⚛️
+    <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #00BFFF; background-color: #E0FFFF; border: 1px solid #ddd;">
+      ⚛️ React
     </td>
-    <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #8A2BE2; background-color: #F9F0FF; border: 1px solid #ddd;">
-      Next⏭️
+    <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #32CD32; background-color: #E0FFD5; border: 1px solid #ddd;">
+      ⏭️ Next
     </td>
-    <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #8A2BE2; background-color: #F9F0FF; border: 1px solid #ddd;">
-      React-Native📱
+    <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #FFD700; background-color: #FFFACD; border: 1px solid #ddd;">
+      📱 React-Native
     </td>
   </tr>
+
+  <!-- Formula Row -->
   <tr>
-    <td colspan="3" style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 1px solid #ddd;">
-      π(RN)<sup>2</sup>
+    <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 1px solid #ddd;">
+      π(RN)<sup>2</sup> <br> N=2
     </td>
     <td style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 1px solid #ddd;">
       4πR<sup>2</sup>
     </td>
-  </tr>
-  <tr>
-    <td colspan="4" style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 1px solid #ddd;">
-      area_of.sphere🎉
+    <td colspan="2" style="text-align: center; padding: 15px; font-size: 2em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 1px solid #ddd;">
+      🌐 area_of.sphere 🎉
     </td>
   </tr>
 </table>
+
 
 
 
