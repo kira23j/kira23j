@@ -12,7 +12,7 @@
   <!-- Header Row -->
   <tr>
     <td colspan="4" style="text-align: center; padding: 30px; font-size: 3.2em; font-weight: bold; color: #6A0DAD; background-color: #E0E0FF; border: 2px solid #ddd;">
-      🛠️ <strong>Tech Stack</strong> ⇒ area_of.sphere(🌐)
+      🛠️ <strong>Tech Stack⇒ area_of.sphere(🌐) </strong> 
     </td>
   </tr>
 
@@ -55,6 +55,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <hr>
