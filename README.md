@@ -1,39 +1,23 @@
 ![banner](https://github.com/kira23j/kira23j/blob/main/assets/banner.jpg)
 <!-- Centered and compact section using HTML in Markdown -->
 
-# 👋🏻 Kirubel Here!
-<!-- Compact and styled table for README.md -->
+<h2 align="center"><strong style="color: #6D48E5; font-size: 2.5em;">👋🏻 Kirubel Here!</strong><br><strong style="color: #6D48E5; font-size: 2em;">Innovative Aspiring Software Engineer Based in Ethiopia</strong></h2>
+<h3 align="center"><em>Explore my well-organized and thoughtfully documented repositories.🎩</em></h3>
 
-<table style="width: 100%; border-collapse: collapse; text-align: center; font-family: 'Arial', sans-serif; color: #4B0082;">
+<h3 style="text-align: center;">🛠️ Tech Stack ⇒ <code>area_of.sphere(🌐)</code></h3>
+
+<table style="margin-left: auto; margin-right: auto; text-align: center;">
   <tr>
-    <td style="padding: 20px; font-size: 2.2em;">
-      <strong>Innovative Aspiring Software Engineer Based in Ethiopia</strong>
-    </td>
-  </tr>
-  <!-- Paragraph Row -->
-  <tr>
-    <td style="padding: 10px; font-size: 1.1em;">
-      <strong>Dive into my well-organized and documented repositories. 🎩</strong>
-    </td>
+    <th>🐍 <strong>πthon</strong></th>
+    <th>⚛️ <strong>React</strong></th>
+    <th>⏭️ <strong>Next.js</strong></th>
+    <th>📱 <strong>React Native</strong></th>
   </tr>
   <tr>
-    <td colspan="4" style="padding: 10px;">
-      <h3 style="margin: 0; font-size: 1.2em;">
-        🛠️ Tech Stack ⇒ <code>area_of.sphere(🌐)</code>
-      </h3>
-    </td>
-  </tr>
-  <tr>
-    <th style="border: 1px solid #4B0082; padding: 10px;">🐍 <strong>πthon</strong></th>
-    <th style="border: 1px solid #4B0082; padding: 10px;">⚛️ <strong>React</strong></th>
-    <th style="border: 1px solid #4B0082; padding: 10px;">⏭️ <strong>Next.js</strong></th>
-    <th style="border: 1px solid #4B0082; padding: 10px;">📱 <strong>React Native</strong></th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #4B0082; padding: 10px;"><strong>π(RN)² </strong></td>
-    <td style="border: 1px solid #4B0082; padding: 10px;"><strong>N=2</strong></td>
-    <td style="border: 1px solid #4B0082; padding: 10px;"><strong>4πR²</strong></td>
-    <td style="border: 1px solid #4B0082; padding: 10px;"><strong>☕️ ∂/∂t 📊 ∞</strong></td>
+    <td><strong>π(RN)²</strong></td>
+    <td><strong>N=2</strong></td>
+    <td><strong>4πR²</strong></td>
+    <td><strong>☕️ ∂/∂t 📊 ∞</strong></td>
   </tr>
 </table>
 
