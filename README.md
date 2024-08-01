@@ -19,7 +19,7 @@
   <!-- Tech Stack Items -->
   <tr>
     <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #FF6347; background-color: #FFE4E1; border: 2px solid #ddd;">
-     🐍 πthon
+      🐍 πthon
     </td>
     <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #00BFFF; background-color: #E0FFFF; border: 2px solid #ddd;">
       ⚛️ React
@@ -43,12 +43,22 @@
     <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
       4πR<sup>2</sup>
     </td>
+    <td style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
+      ☕️ 📊 💻
+    </td>
   </tr>
-  
+
   <!-- Footer Row -->
   <tr>
     <td colspan="4" style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #BA55D3; background-color: #F0F0FF; border: 2px solid #ddd;">
       🌐 area_of.sphere 🎉
+    </td>
+  </tr>
+
+  <!-- Contact Row -->
+  <tr>
+    <td colspan="4" style="text-align: center; padding: 20px; font-size: 3em; font-weight: bold; color: #1E90FF; background-color: #E6F7FF; border: 2px solid #ddd;">
+      <a href="https://connect23j.vercel.app/" style="text-decoration: none; color: #1E90FF;">🔗 Connect with me</a>
     </td>
   </tr>
 </table>
