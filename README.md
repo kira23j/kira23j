@@ -26,7 +26,6 @@
       <th style="padding: 15px; border-right: 2px solid #ccc;">🧠 Mindset</th>
       <th style="padding: 15px; border-right: 2px solid #ccc;">💖 Interests</th>
       <th style="padding: 15px; border-right: 2px solid #ccc;">🌌 Horizons</th>
-      <th style="padding: 15px; border-right: 2px solid #ccc;">👑 Influences</th>
       <th style="padding: 15px;">🔍 Exploration</th>
       <th style="padding: 15px;">🌟Companies</th>
     </tr>
@@ -37,7 +36,6 @@
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Resilient </td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Podcast</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Cosmos</td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Elon Musk</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">Psychology</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">🖥️ NVIDIA</td>
     </tr>
@@ -46,7 +44,6 @@
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Entrepreneurial </td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Coffee</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Calculus</td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Robert Greene</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">Business</td>
         <td style="padding: 15px; border-bottom: 1px solid #ddd;">🛸 SpaceX</td>
    </tr>
@@ -56,7 +53,6 @@
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Practical </td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Sports</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Nature</td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Christopher Nolan</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">Strategy</td>
        <td style="padding: 15px; border-bottom: 1px solid #ddd;">🌐 Google</td>
     </tr>
@@ -66,7 +62,6 @@
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Visionary</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Movie-Anime</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Science</td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Jensen Huang</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">Marketing</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">🛒 Amazon</td>
    </tr>
@@ -117,11 +112,12 @@
     </tr>
     <tr style="background-color: #f8f8f8;">
       <td style="padding: 12px; border-bottom: 1px solid #ddd;">
-        <h2><a><b>Coming Soon!</b></a></h2>
+        <h2><a><b>Workout Routine</b></a></h2>
       </td>
       <td style="padding: 12px; border-bottom: 1px solid #ddd;">
         <p align="justify">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec varius massa. Sed vel purus vitae velit tincidunt tristique.
+          workout routine app made with next js and fastapi 
+           <a href=" https://github.com/kira23j/FastReactX/tree/main/02.%20Simple-Routine%20FastAPI%20%26%20Next.js"><b>check it out here</b></a>
         </p>
       </td>
     </tr>
