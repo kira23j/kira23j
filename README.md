@@ -112,12 +112,12 @@
     </tr>
     <tr style="background-color: #f8f8f8;">
       <td style="padding: 12px; border-bottom: 1px solid #ddd;">
-        <h2><a><b>Workout Routine</b></a></h2>
+        <h2><a href="https://github.com/kira23j/FastReactX/tree/main/02.%20Simple-Routine%20FastAPI%20%26%20Next.js"><b>Workout Routine</b></a></h2>
       </td>
       <td style="padding: 12px; border-bottom: 1px solid #ddd;">
         <p align="justify">
           workout routine app made with next js and fastapi 
-           <a href=" https://github.com/kira23j/FastReactX/tree/main/02.%20Simple-Routine%20FastAPI%20%26%20Next.js"><b>check it out here</b></a>
+           <a href="https://github.com/kira23j/FastReactX/tree/main/02.%20Simple-Routine%20FastAPI%20%26%20Next.js"><b>check it out here</b></a>
         </p>
       </td>
     </tr>
