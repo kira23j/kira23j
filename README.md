@@ -88,6 +88,16 @@
     </tr>
   </thead>
   <tbody>
+     <tr style="background-color: #f8f8f8;">
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">
+        <h2><a href="https://github.com/kira23j/CodeSphere/tree/main/Project-01.DBUHub"><b>DBUHub</b></a></h2>
+      </td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">
+        <p align="justify">
+          DBUHub is an all-in-one mobile app for Debre Birhan University, featuring secure login, campus navigation, latest news, university services, and AI-powered     support.<a href="https://www.youtube.com/watch?v=N98-Kp_0r_Q"><b>click here</b></a> for DEMO!
+        </p>
+      </td>
+    </tr>
     <tr style="background-color: #f8f8f8;">
       <td style="padding: 12px; border-bottom: 1px solid #ddd;">
         <h2><a href="https://github.com/kira23j/Next-Projects-Hub/tree/main/01.Anime-Ocean"><b>Anime Ocean</b></a></h2>
@@ -118,16 +128,6 @@
         <p align="justify">
           workout routine app made with next js and fastapi 
            <a href="https://github.com/kira23j/FastReactX/tree/main/02.%20Simple-Routine%20FastAPI%20%26%20Next.js"><b>check it out here</b></a>
-        </p>
-      </td>
-    </tr>
-    <tr style="background-color: #f8f8f8;">
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">
-        <h2><a><b>Coming Soon!</b></a></h2>
-      </td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">
-        <p align="justify">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec varius massa. Sed vel purus vitae velit tincidunt tristique.
         </p>
       </td>
     </tr>
