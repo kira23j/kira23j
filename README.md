@@ -34,7 +34,7 @@
     <tr style="background-color: #e9f7ef;">
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Software Engineer</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Resilient </td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Podcast</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Coffee</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Cosmos</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">Psychology</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">🖥️ NVIDIA</td>
@@ -42,7 +42,7 @@
     <tr style="background-color: #e9f7ef;">
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Full-Stack Dev</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Entrepreneurial </td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Coffee</td>
+      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Podcast</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Calculus</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">Business</td>
         <td style="padding: 15px; border-bottom: 1px solid #ddd;">🛸 SpaceX</td>
@@ -73,13 +73,13 @@
  <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,react,redux,threejs,nodejs,nextjs,py,fastapi,prisma,postgres,mongodb,redis,firebase,linux,git,docker,githubactions,selenium,ai,sklearn,tensorflow,pytorch,opencv,solidity,rust"/>
+    <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,react,redux,threejs,nodejs,nextjs,py,fastapi,prisma,postgres,mongodb,redis,firebase,linux,git,docker,githubactions,aws,selenium,ai,sklearn,tensorflow,pytorch,solidity,rust"/>
   </a>
 </p>
 
 ![front](https://github.com/kira23j/kira23j/blob/main/assets/front.jpg)
 
-<h1 align="center">Latest Top 5 Projects!</h1>
+<h1 align="center">Latest Top 7 Projects!</h1>
 <table style="width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #f0f0f0; border: 2px solid #ccc; border-radius: 8px;">
   <thead>
     <tr style="background-color: #4CAF50; color: white; font-weight: bold; text-align: left;">
@@ -132,6 +132,26 @@
       </td>
     </tr>
     <tr style="background-color: #f8f8f8;">
+      <td style="padding: 12px;">
+        <h2><a><b>Coming Soon!</b></a></h2>
+      </td>
+      <td style="padding: 12px;">
+        <p align="justify">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec varius massa. Sed vel purus vitae velit tincidunt tristique.
+        </p>
+      </td>
+    </tr>
+     <tr style="background-color: #f8f8f8;">
+      <td style="padding: 12px;">
+        <h2><a><b>Coming Soon!</b></a></h2>
+      </td>
+      <td style="padding: 12px;">
+        <p align="justify">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec varius massa. Sed vel purus vitae velit tincidunt tristique.
+        </p>
+      </td>
+    </tr>
+     <tr style="background-color: #f8f8f8;">
       <td style="padding: 12px;">
         <h2><a><b>Coming Soon!</b></a></h2>
       </td>
