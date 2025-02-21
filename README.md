@@ -1,7 +1,7 @@
 ![banner](https://github.com/kira23j/kira23j/blob/main/assets/banner.jpg)
 <!-- Centered and compact section using HTML in Markdown -->
 
-<h2 align="center"><strong style="color: #6D48E5; font-size: 2.5em;">👋🏻 Kirubel Here!</strong><br><strong style="color: #6D48E5; font-size: 2em;">Innovative Aspiring Software Engineer Based in Ethiopia</strong><br><strong style="color: #6D48E5; font-size: 2em;">Explore my well-organized and thoughtfully documented repositories.🎩</strong></h2>
+<h2 align="center"><strong style="color: #6D48E5; font-size: 2.5em;">👋🏻 Kirubel Here!</strong><br><strong style="color: #6D48E5; font-size: 2em;">Full-Stack Ai Engineer Based in Ethiopia</strong><br><strong style="color: #6D48E5; font-size: 2em;">Explore my well-organized and thoughtfully documented repositories.🎩</strong></h2>
 <h3 style="text-align: center;">🛠️ Tech Stack ⇒ <code>area_of.sphere(🌐)</code></h3>
 <table style="margin-left: auto; margin-right: auto; text-align: center;">
   <tr>
@@ -22,48 +22,33 @@
 <table style="width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #fafafa; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <thead>
     <tr style="background-color: #4CAF50; color: white; font-weight: bold; text-align: left;">
-      <th style="padding: 15px; border-right: 2px solid #ccc;">🚀 Goals</th>
       <th style="padding: 15px; border-right: 2px solid #ccc;">🧠 Mindset</th>
       <th style="padding: 15px; border-right: 2px solid #ccc;">💖 Interests</th>
-      <th style="padding: 15px; border-right: 2px solid #ccc;">🌌 Horizons</th>
       <th style="padding: 15px;">🔍 Exploration</th>
-      <th style="padding: 15px;">🌟Companies</th>
     </tr>
   </thead>
   <tbody>
     <tr style="background-color: #e9f7ef;">
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Software Engineer</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Resilient </td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Coffee</td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Cosmos</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">Psychology</td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd;">🖥️ NVIDIA</td>
     </tr>
     <tr style="background-color: #e9f7ef;">
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Full-Stack Dev</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Entrepreneurial </td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Podcast</td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Calculus</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">Business</td>
-        <td style="padding: 15px; border-bottom: 1px solid #ddd;">🛸 SpaceX</td>
    </tr>
 
   <tr style="background-color: #e9f7ef;">
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">AI Engineer</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Practical </td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Sports</td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Nature</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">Strategy</td>
-       <td style="padding: 15px; border-bottom: 1px solid #ddd;">🌐 Google</td>
     </tr>
 
   <tr style="background-color: #e9f7ef;">
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Web3 Dev</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Visionary</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Movie-Anime</td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Science</td>
       <td style="padding: 15px; border-bottom: 1px solid #ddd;">Marketing</td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd;">🛒 Amazon</td>
    </tr>
     
   </tbody>
@@ -73,7 +58,7 @@
  <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,react,redux,threejs,nodejs,nextjs,py,fastapi,prisma,postgres,mongodb,redis,firebase,linux,git,docker,githubactions,aws,selenium,ai,sklearn,tensorflow,pytorch,solidity,rust"/>
+    <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,react,redux,nodejs,nextjs,py,fastapi,prisma,postgres,mongodb,redis,firebase,linux,git,docker,githubactions,aws,selenium,ai,sklearn,tensorflow,pytorch,opencv,anaconda,vscode"/>
   </a>
 </p>
 
