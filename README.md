@@ -1,7 +1,7 @@
 ![banner](https://github.com/kira23j/kira23j/blob/main/assets/banner.jpg)
 <!-- Centered and compact section using HTML in Markdown -->
 
-<h2 align="center"><strong style="color: #6D48E5; font-size: 2.5em;">👋🏻 Kirubel Here!</strong><br><strong style="color: #6D48E5; font-size: 2em;">Full-Stack Ai Engineer Based in Ethiopia</strong><br><strong style="color: #6D48E5; font-size: 2em;">Explore my well-organized and thoughtfully documented repositories.🎩</strong></h2>
+<h2 align="center"><strong style="color: #6D48E5; font-size: 2.5em;">👋🏻 Kirubel Here!</strong><br><strong style="color: #6D48E5; font-size: 2em;">Next-Gen Software Engineer Based in Ethiopia</strong><br><strong style="color: #6D48E5; font-size: 2em;">Explore my well-organized and thoughtfully documented repositories.🎩</strong></h2>
 <h3 style="text-align: center;">🛠️ Tech Stack ⇒ <code>area_of.sphere(🌐)</code></h3>
 <table style="margin-left: auto; margin-right: auto; text-align: center;">
   <tr>
@@ -58,7 +58,7 @@
  <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,react,redux,nodejs,nextjs,py,fastapi,prisma,postgres,mongodb,redis,firebase,linux,git,docker,githubactions,aws,selenium,ai,sklearn,tensorflow,pytorch,opencv,anaconda,vscode"/>
+    <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,react,redux,nodejs,nextjs,py,fastapi,prisma,postgres,mongodb,redis,firebase,linux,git,docker,githubactions,aws,selenium,ai,sklearn,tensorflow,pytorch,opencv,solidity,rust"/>
   </a>
 </p>
 
