@@ -6,11 +6,11 @@
 </p>
 
 <h1 align="center">
-  <strong style="color: #6D48E5; font-size: 3em;">👋🏻 Kirubel Here!</strong>
+  <strong style="color: #6D48E5; font-size: 3em;">✨ Hey there, Kirubel here! ✨</strong>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=6D48E5&center=true&vCenter=true&width=800&lines=Next-Gen+Software+Engineer-;Empowering+Innovation+with+AI+%26+Web3;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=76B900&center=true&vCenter=true&width=800&lines=Next-Gen+Software+Engineer;Empowering+Innovation+with+AI+%26+Web3;">
 </p>
 
 <h2 align="center">
