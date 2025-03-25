@@ -17,10 +17,6 @@
   <strong style="color: #6D48E5; font-size: 2em;">🎩 Explore my well-organized and thoughtfully documented repositories.</strong>
 </h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px">
-</p>
-
 <h3 style="text-align: center;">🛠️ Tech Stack ⇒ <code>area_of.sphere(🌐)</code></h3>
 <table style="margin-left: auto; margin-right: auto; text-align: center;">
   <tr>
