@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=76B900&center=true&vCenter=true&width=800&lines=Next-Gen+Software+Engineer;Empowering+Innovation+with+AI+%26+Web3;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=76B900&center=true&vCenter=true&width=800&lines=Next-Gen+Software+Engineer;Empowering+Innovation+through+Ai+%26+Strategic-Thinking;">
 </p>
 
 <h2 align="center">
@@ -73,7 +73,7 @@
  <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,react,redux,nodejs,nextjs,py,fastapi,prisma,postgres,mongodb,redis,firebase,linux,git,docker,githubactions,aws,selenium,ai,sklearn,tensorflow,pytorch,opencv,solidity,rust"/>
+    <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,react,redux,nodejs,nextjs,py,fastapi,prisma,postgres,mongodb,redis,firebase,linux,git,docker,githubactions,aws,selenium,ai,sklearn,pytorch,tensorflow,opencv,solidity,rust"/>
   </a>
 </p>
 
