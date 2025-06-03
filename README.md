@@ -88,6 +88,16 @@
     </tr>
   </thead>
   <tbody>
+         <tr style="background-color: #f8f8f8;">
+      <td style="padding: 12px;">
+        <h2><a href="https://github.com/kira23j/CodeSphere/tree/main/Project-02.FaydaID"><b>Fayda ID</b></a></h2>
+      </td>
+      <td style="padding: 12px;">
+        <p align="justify">
+          Blockchain-Powered Digital Identity Management System with Smart Features, Built with Next.js, Solidity, HardHat, LLM, and More. <a href="https://github.com/kira23j/CodeSphere/tree/main/Project-02.FaydaID"><b>click here</b></a>
+        </p>
+      </td>
+    </tr>
        <tr style="background-color: #f8f8f8;">
       <td style="padding: 12px;">
         <h2><a href="https://github.com/kira23j/Smart-Apps/tree/main/02.CodeAlpha-AI-Internship-Projects"><b>CodeAlpha Ai Projects</b></a></h2>
@@ -136,18 +146,8 @@
       </td>
       <td style="padding: 12px; border-bottom: 1px solid #ddd;">
         <p align="justify">
-          workout routine app made with next js and fastapi 
+          Workout routine app made with Next.js and FastAPI 
            <a href="https://github.com/kira23j/FastReactX/tree/main/02.%20Simple-Routine%20FastAPI%20%26%20Next.js"><b>check it out here</b></a>
-        </p>
-      </td>
-    </tr>
-     <tr style="background-color: #f8f8f8;">
-      <td style="padding: 12px;">
-        <h2><a><b>Coming Soon!</b></a></h2>
-      </td>
-      <td style="padding: 12px;">
-        <p align="justify">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec varius massa. Sed vel purus vitae velit tincidunt tristique.
         </p>
       </td>
     </tr>
