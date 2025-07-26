@@ -94,7 +94,7 @@
       </td>
       <td style="padding: 12px;">
         <p align="justify">
-          Blockchain-Powered Digital Identity Management System with Smart Features, Built with Next.js, Solidity, HardHat, LLM, and More. <a href="https://github.com/kira23j/CodeSphere/tree/main/Project-02.FaydaID"><b>click here</b></a>
+          Blockchain-Powered Digital Identity Management System with Smart Features, Built with Next.js, Solidity, HardHat, LLM, and More. <a href="https://fayda-id.vercel.app/"><b>click here</b></a>4-DEMO
         </p>
       </td>
     </tr>
