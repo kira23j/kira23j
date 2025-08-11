@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=76B900&center=true&vCenter=true&width=800&lines=Next-Gen+Software+Engineer;Empowering+Innovation+through+Ai+%26+Strategic-Thinking;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=76B900&center=true&vCenter=true&width=800&lines=Next-Gen+Software+Engineer;Empowering+Innovation+through+Ai+%26+Strategic-Thinking;Building Next-Generation Products, Ai Apps and dApps">
 </p>
 
 <h2 align="center">
@@ -22,7 +22,7 @@
   <tr>
     <th>🐍 <strong>πthon</strong></th>
     <th>⚛️ <strong>React</strong></th>
-    <th>⏭️ <strong>Next.js</strong></th>
+    <th>⏭️ <strong>Node.js</strong></th>
     <th>📱 <strong>React Native</strong></th>
   </tr>
   <tr>
