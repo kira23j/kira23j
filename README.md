@@ -10,8 +10,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=76B900&center=true&vCenter=true&width=800&lines=Next-Gen+Software+Engineer;Empowering+Innovation+through+Ai+%26+Strategic-Thinking;Building Next-Generation Products, Ai Apps and dApps">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=76B900&center=true&vCenter=true&width=800&lines=Next-Gen+Software+Engineer;Empowering+Innovation+through+AI+%26+Strategic+Thinking;Building+Next-Generation+Products,+AI+Apps+and+dApps" alt="Typing SVG" />
 </p>
+
 
 <h2 align="center">
   <strong style="color: #6D48E5; font-size: 2em;">🎩 Explore my well-organized and thoughtfully documented repositories.</strong>
