@@ -79,7 +79,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kira23j/kira23j/main/github-metrics-premium.svg" alt="AI Automation Dashboard">
+  <img src="https://raw.githubusercontent.com/kira23j/kira23j/main/github-metrics.svg" alt="AI Automation Dashboard">
 </p>
 
 <h1 align="center">Latest Top 7 Projects!</h1>
