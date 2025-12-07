@@ -17,10 +17,10 @@ jobs:
           base: header,activity,community,repositories,metadata
           config_timezone: Africa/Addis_Ababa
           config_output: github-metrics-premium.svg
-          # Optimized plugin setup for speed
+          # Optimized plugin setup
           plugin_isocalendar: yes
           plugin_languages: yes
-          plugin_languages_ignored: html, css
+          plugin_languages_ignored: html, css, java, swift
           plugin_languages_limit: 12
           plugin_stars: yes
           plugin_stars_limit: 6
@@ -30,27 +30,34 @@ jobs:
           plugin_topics_limit: 24
           plugin_calendar: yes
           plugin_habits: yes
-          plugin_habits_from: 100         # reduced to speed up workflow
+          plugin_habits_from: 100
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           config_twemoji: yes
           config_padding: 10%
           extras_css: |
-            /* FUTURISTIC AI + AUTOMATION THEME */
+            /* MODERN FUTURISTIC AI + AUTOMATION THEME */
             body {
-              background-color: #0d0d0d;
+              background: linear-gradient(135deg, #0d0d0d, #000a1a);
               color: #76B900;
               font-family: 'Fira Code', monospace;
             }
             h1, h2, h3, h4 {
               color: #00f0ff;
+              text-shadow: 0 0 10px #00f0ff88, 0 0 20px #00f0ff66;
             }
             .card {
               border: 1px solid #76B900;
-              box-shadow: 0 0 20px #00f0ff88;
-              border-radius: 15px;
-              backdrop-filter: blur(5px);
+              box-shadow: 0 0 30px #00f0ffaa, 0 0 10px #76B90055 inset;
+              border-radius: 20px;
+              backdrop-filter: blur(8px);
+              transition: transform 0.3s ease, box-shadow 0.3s ease;
+            }
+            .card:hover {
+              transform: translateY(-5px) scale(1.02);
+              box-shadow: 0 0 40px #00f0ffcc, 0 0 20px #76B90077 inset;
             }
             svg {
               stroke: #76B900;
+              transition: stroke 0.3s ease;
             }
