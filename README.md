@@ -173,11 +173,6 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=kira23j&style=for-the-badge&color=orange" alt=""/>
 </div>
- 
-  
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=kira23j&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
 
 ---
 ![footer](https://github.com/kira23j/kira23j/blob/main/assets/footer.jpg)
