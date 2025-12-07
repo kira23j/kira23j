@@ -10,8 +10,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=76B900&center=true&vCenter=true&width=800&lines=Next-Gen+Software+Engineer;Empowering+Innovation+through+AI+%26+Strategic+Thinking;Building+Next-Generation+Products,+AI+Apps+and+dApps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00B894&center=true&vCenter=true&width=820&lines=Software+Engineer;Full+Stack+Developer;AI+%26+Automation" alt="Typing SVG"/>
 </p>
+
 
 
 <h2 align="center">
@@ -77,8 +78,9 @@
     <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,react,redux,nodejs,nextjs,py,fastapi,prisma,postgres,mongodb,redis,firebase,linux,git,docker,githubactions,aws,selenium,ai,sklearn,pytorch,tensorflow,opencv,solidity,rust"/>
   </a>
 </p>
-
-![front](https://github.com/kira23j/kira23j/blob/main/assets/front.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kira23j/kira23j/main/github-metrics-premium.svg" alt="AI Automation Dashboard">
+</p>
 
 <h1 align="center">Latest Top 7 Projects!</h1>
 <table style="width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #f0f0f0; border: 2px solid #ccc; border-radius: 8px;">
