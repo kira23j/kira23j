@@ -10,72 +10,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00B894&center=true&vCenter=true&width=820&lines=Software+Engineer;Full+Stack+Developer;AI+%26+Automation" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00B894&center=true&vCenter=true&width=820&lines=Software+Engineer;Full+Stack+Developer;" alt="Typing SVG"/>
 </p>
-
-
-
-<h2 align="center">
-  <strong style="color: #6D48E5; font-size: 2em;">🎩 Explore my well-organized and thoughtfully documented repositories.</strong>
-</h2>
-
-<h3 style="text-align: center;">🛠️ Tech Stack ⇒ <code>area_of.sphere(🌐)</code></h3>
-<table style="margin-left: auto; margin-right: auto; text-align: center;">
-  <tr>
-    <th>🐍 <strong>πthon</strong></th>
-    <th>⚛️ <strong>React</strong></th>
-    <th>⏭️ <strong>Node.js</strong></th>
-    <th>📱 <strong>React Native</strong></th>
-  </tr>
-  <tr>
-    <td><strong>π(RN)²</strong></td>
-    <td><strong>N=2</strong></td>
-    <td><strong>4πR²</strong></td>
-    <td><strong>area_of.sphere🎉</td>
-  </tr>
-</table>
-
 <hr>
-<table style="width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #fafafa; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <thead>
-    <tr style="background-color: #4CAF50; color: white; font-weight: bold; text-align: left;">
-      <th style="padding: 15px; border-right: 2px solid #ccc;">🧠 Mindset</th>
-      <th style="padding: 15px; border-right: 2px solid #ccc;">💖 Interests</th>
-      <th style="padding: 15px;">🔍 Exploration</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color: #e9f7ef;">
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Resilient </td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Coffee</td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd;">Psychology</td>
-    </tr>
-    <tr style="background-color: #e9f7ef;">
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Entrepreneurial </td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Podcast</td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd;">Business</td>
-   </tr>
-
-  <tr style="background-color: #e9f7ef;">
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Practical </td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Sports</td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd;">Strategy</td>
-    </tr>
-
-  <tr style="background-color: #e9f7ef;">
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Visionary</td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd; border-right: 2px solid #ccc;">Movie-Anime</td>
-      <td style="padding: 15px; border-bottom: 1px solid #ddd;">Marketing</td>
-   </tr>
-    
-  </tbody>
-</table>
-
-
- <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,react,redux,nodejs,nextjs,py,fastapi,prisma,postgres,mongodb,redis,firebase,linux,git,docker,githubactions,aws,selenium,ai,sklearn,pytorch,tensorflow,opencv,solidity,rust"/>
+    <img src="https://skillicons.dev/icons?i=ts,react,tailwind,py,ai,fastapi,cs,dotnet,postgres,redis,linux,git,docker,githubactions,aws"/>
   </a>
 </p>
 <p align="center">
