@@ -15,7 +15,7 @@
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,py,ai,fastapi,cs,dotnet,postgres,redis,rust,linux,git,docker,githubactions,aws"/>
+    <img src="https://skillicons.dev/icons?i=react,py,ai,fastapi,cs,dotnet,postgres,redis,rust,linux,git,docker,kubernetes,githubactions,aws"/>
   </a>
 </p>
 <p align="center">
