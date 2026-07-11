@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00B894&center=true&vCenter=true&width=820&lines=Software+Engineer;Full+Stack+Developer;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00B894&center=true&vCenter=true&width=820&lines=Software+Engineer;Back+End+and+Infra;" alt="Typing SVG"/>
 </p>
 <hr>
 <p align="center">
@@ -22,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/kira23j/kira23j/main/github-metrics.svg" alt="AI Automation Dashboard">
 </p>
 
-<h1 align="center">Latest Top 7 Projects!</h1>
+<h1 align="center">Latest Top 3 Projects!</h1>
 <table style="width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #f0f0f0; border: 2px solid #ccc; border-radius: 8px;">
   <thead>
     <tr style="background-color: #4CAF50; color: white; font-weight: bold; text-align: left;">
@@ -41,53 +41,13 @@
         </p>
       </td>
     </tr>
-       <tr style="background-color: #f8f8f8;">
-      <td style="padding: 12px;">
-        <h2><a href="https://github.com/kira23j/Smart-Apps/tree/main/02.CodeAlpha-AI-Internship-Projects"><b>CodeAlpha Ai Projects</b></a></h2>
-      </td>
-      <td style="padding: 12px;">
-        <p align="justify">
-          These projects leverage AI, Python, and the React ecosystem for language translation, interactive FAQs, and music generation.<a href="https://github.com/kira23j/Smart-Apps/tree/main/02.CodeAlpha-AI-Internship-Projects"><b>click here</b></a>
-        </p>
-      </td>
-    </tr>
      <tr style="background-color: #f8f8f8;">
       <td style="padding: 12px; border-bottom: 1px solid #ddd;">
         <h2><a href="https://github.com/kira23j/CodeSphere/tree/main/Project-01.DBUHub"><b>DBUHub</b></a></h2>
       </td>
       <td style="padding: 12px; border-bottom: 1px solid #ddd;">
         <p align="justify">
-          DBUHub is an all-in-one mobile app for DBU as an Internship Project , featuring secure login, campus navigation, latest news, university services, and AI-powered     support.<a href="https://www.youtube.com/watch?v=N98-Kp_0r_Q"><b>click here</b></a> for DEMO!
-        </p>
-      </td>
-    </tr>
-    <tr style="background-color: #f8f8f8;">
-      <td style="padding: 12px;">
-        <h2><a><b>Coming Soon!</b></a></h2>
-      </td>
-      <td style="padding: 12px;">
-        <p align="justify">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec varius massa. Sed vel purus vitae velit tincidunt tristique.
-        </p>
-      </td>
-    </tr>
-    <tr style="background-color: #f8f8f8;">
-      <td style="padding: 12px;">
-        <h2><a><b>Coming Soon!</b></a></h2>
-      </td>
-      <td style="padding: 12px;">
-        <p align="justify">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec varius massa. Sed vel purus vitae velit tincidunt tristique.
-        </p>
-      </td>
-    </tr>
-    <tr style="background-color: #f8f8f8;">
-      <td style="padding: 12px;">
-        <h2><a><b>Coming Soon!</b></a></h2>
-      </td>
-      <td style="padding: 12px;">
-        <p align="justify">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec varius massa. Sed vel purus vitae velit tincidunt tristique.
+          DBUHub is an all-in-one mobile app for DBU as an Internship Project, featuring secure login, campus navigation, latest news, university services, and AI-powered     support.<a href="https://www.youtube.com/watch?v=N98-Kp_0r_Q"><b>click here</b></a> for DEMO!
         </p>
       </td>
     </tr>
